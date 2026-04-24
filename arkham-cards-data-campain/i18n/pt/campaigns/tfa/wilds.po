@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid "Scenario I: The Untamed Wilds"
+msgstr "Cenário I: Os Ermos Indômitos"
+
+msgid ""
+"<right><fancy>Sunday, June 28th, 1925</fancy></right>\n"
+"It’s been a hell of a day. We’ve just set up camp along the northern border of the rainforest where Alejandro believes the Eztli once dwelled. The jungle here is dense and untamed. The sky hides above the tree cover, but I can tell from the crisp breeze that storm clouds are brewing overhead.\n"
+"The dangers of our expedition have been explained to us many times. We are hundreds of miles away from any sign of civilization. Nobody in modern times has yet to pierce the heart of these wilds. Until now, nobody has had reason to try. After all, it wouldn’t make sense to find Aztec ruins in this region of Mexico. And yet, here we are: looking for ruins that may not exist in a place where, by all accounts, they should not.\n"
+"Already one of our surveyors has fallen ill, and another has been bitten by a viper. I’m starting to think the rainforest doesn’t want us here. If this luck persists, ours will be the shortest expedition in Miskatonic University’s history. Tonight, we rest. Tomorrow, we venture into uncharted wilds."
+msgstr ""
+"<right><fancy>Domingo, 28 de junho de 1925</fancy></right>\n"
+"Foi um dia duro. Acabamos de montar acampamento na fronteira norte da floresta tropical na qual Alejandro crê que outrora estiveram os Eztli. A selva aqui é densa e indômita. O céu se esconde acima da copa das árvores, mas sei pela brisa gelada que há nuvens de tempestade se formando acima de nós.\n"
+"Os perigos de nossa expedição nos foram explicados várias vezes. Estamos a centenas de quilômetros de qualquer sinal de civilização. Não há ninguém nos tempos modernos que penetrou no coração destes ermos. Até agora, ninguém teve um motivo para tentar. Afinal, não faria sentido encontrar ruínas astecas nesta região do México. No entanto, cá estamos nós: procurando ruínas que talvez não existam em um local onde, até onde se sabe, elas não deveriam existir.\n"
+"Um dos nossos agrimensores já adoeceu e outro foi picado por uma víbora. Estou começando a pensar que a floresta não nos quer aqui. Se essa sorte persistir, nossa expedição será a mais curta na história da Universidade de Miskatonic. Hoje à noite, descansamos. Amanhã, aventurar-nos-emos pelos ermos não mapeados."
+
+msgid "Put the Expedition Camp into play. Each investigator begins play at the Expedition Camp."
+msgstr "Coloque Acampamento da Expedição em jogo. Cada investigador começa o jogo no Acampamento da Expedição."
+
+msgid "Create the exploration deck. This is done by taking the five single-sided [[Jungle]] locations and shuffling them together, along with one copy each of the following treachery cards: Lost in the Wilds, Overgrowth, Snake Bite, Low on Supplies, and Arrows from the Trees."
+msgstr "Crie o baralho de exploração. Faça isso pegando os cinco locais [[Jungle]] de lado único e embaralhando-os, junto com uma cópia de cada uma das seguintes cartas de traição: Perdido nos Ermos, Mata Cerrada, Mordida de Cobra, Suprimentos Acabando e Flechas Vindas das Árvores."
+
+msgid "Set the following cards aside, out of play: The three single-sided [[Ruins]] locations, the <i>Agents of Yig</i> encounter set, the four Poisoned weaknesses, the Alejandro Vela asset, and the Ichtaca enemy."
+msgstr "Separe as seguintes cartas, fora de jogo: Os três locais [[Ruins]] de lado único, o conjunto de encontros <i>Agentes de Yig</i>, as quatro fraquezas Envenenado, o ativo Alejandro Vela e o inimigo Ichtaca."
+
+msgid "the investigators were forced to wait for additional supplies."
+msgstr "os investigadores foram forçados a esperar por suprimentos adicionais."
+
+msgid "Ichtaca observed your progress with keen interest."
+msgstr "Ichtaca observou seu progresso com muito interesse."
+
+msgid "the investigators have earned Ichtaca’s trust."
+msgstr "os investigadores conquistaram a confiança de Ichtaca."
+
+msgid "In your Campaign Log, record that <i>Alejandro followed the investigators into the ruins</i>. Any one investigator may choose to add Alejandro Vela to their deck. This card does not count toward that investigator’s deck size."
+msgstr "No Registro da Campanha, anote que <i>Alejandro seguiu os investigadores até as ruínas</i>. Um investigador pode escolher adicionar Alejandro Vela ao baralho dele. Essa carta não conta para o tamanho do baralho desse investigador."
+
+msgid "Alejandro followed the investigators into the ruins."
+msgstr "Alejandro seguiu os investigadores até as ruínas."
+
+msgid "Ichtaca is wary of the investigators."
+msgstr "Ichtaca não confia nos investigadores."
+
+msgid "In your Campaign Log, record that <i>Alejandro chose to remain at camp</i>. Do not add Alejandro Vela to any investigator’s deck."
+msgstr "No Registro da Campanha, anote que <i>Alejandro decidiu ficar no acampamento</i>. Não adicione Alejandro Vela ao baralho de nenhum investigador."
+
+msgid "Alejandro chose to remain at camp."
+msgstr "Alejandro decidiu ficar no acampamento."
+
+msgid "the investigators cleared a path to the Eztli ruins."
+msgstr "os investigadores abriram um caminho para as ruínas de Eztli."
+
+msgid "Which of the following was true?"
+msgstr "Qual destas situações é verdadeira?"
+
+msgid "It was Act 1 or 2 when the scenario ended."
+msgstr "Era o Ato 1 ou 2 quando o cenário terminou."
+
+msgid "“You fought with Ichtaca”"
+msgstr "“Você lutou com Ichtaca”"
+
+msgid "“Ichtaca is leading the way”"
+msgstr "“Ichtaca está liderando o caminho”"
+
+msgid "For each vengeance point in the victory display, record one tally mark under “Yig’s Fury”in your Campaign Log. Beware the anger of the Father of Serpents, as his fury will haunt you in the future."
+msgstr ""
+"Para cada ponto de vingança no painel de vitórias, faça uma marca em “Fúria de Yig” no Registro da Campanha. Cuidado com a ira do Pai das Serpentes, pois a fúria dele assombrará você no futuro."
+
+msgid "Which of these is true?"
+msgstr "Qual destes é verdade?"
+
+msgid "<i>Ichtaca is leading the way.</i>"
+msgstr "<i>Ichtaca está liderando o caminho.</i>"
+
+msgid "Add 1 [cultist] token."
+msgstr "Adicione 1 ficha [cultist]."
+
+msgid "<i>You fought with Icthaca.</i>"
+msgstr "<i>Você lutou com Icthaca.</i>"
+
+msgid "Add 1 [tablet] token."
+msgstr "Adicione 1 ficha [tablet]."
+
+msgid "While playing the scenario, there was an instruction to add one [tablet] token to the chaos bag."
+msgstr "Enquanto jogava o cenário, havia uma instrução para adicionar uma ficha [tablet] à bolsa de caos."
+
+msgid "While playing the scenario, there was an instruction to add one [cultist] token to the chaos bag."
+msgstr "Enquanto jogava o cenário, havia uma instrução para adicionar uma ficha [cultist] à bolsa de caos."
+
+msgid ""
+"<right><fancy>Wednesday, July 1st, 1925</fancy></right>\n"
+"I still have no idea how we made it back to camp alive.\n"
+"The jungle was more perilous than we could have possibly imagined. This may read like the ravings of a lunatic, but I cannot explain it any other way. Being lost in the jungle was no picnic, but that was the least of our worries. The rainforest was guarded. Guarded by unfathomable horrors: serpentine creatures driven by anger and hate, hunting us relentlessly.\n"
+"Perhaps just as deadly were the human natives of the rainforest. They appeared to be Aztec warriors as far as dress and speech were concerned. Despite the conquering of the Aztec people hundreds of years ago, these warriors somehow survived. How they managed to remain undiscovered this long is beyond us. I thought Alejandro would be excited to learn more about them, but he was more disturbed than fascinated. I suppose he has a right to be incredulous. Nothing about this expedition makes sense.\n"
+"The serpent creatures chased us for what seemed like days. Finally we were able to find our way back to camp, but the price was steep. We had lost all progress we had made, and many of us were injured or afflicted by serpent venom. We have no choice but to send runners to the nearest city for additional supplies and to wait and recover from our wounds."
+msgstr ""
+"<right><fancy>Quarta-feira, 1º de julho de 1925</fancy></right>\n"
+"Ainda não faço ideia de como conseguimos voltar ao acampamento vivos. A selva era mais perigosa do que podíamos imaginar. Podem parecer os delírios de um lunático, mas não sei explicar de outra forma. Ficarmos perdidos na selva não foi nada fácil, mas foi o menor dos nossos problemas. A floresta era vigiada. Guardada por horrores incompreensíveis: criaturas serpentinas movidas pela raiva e pelo ódio, nos caçando incansavelmente.\n"
+"Talvez tão letais quanto elas eram os humanos nativos da floresta. Eles pareciam ser guerreiros astecas, por suas roupas e sua fala. Apesar da conquista do povo asteca séculos atrás, estes guerreiros de alguma forma sobreviveram. Como eles não foram descobertos por todo esse tempo está além da nossa compreensão. Pensei que Alejandro ficaria animado para descobrir mais sobre eles, mas ele ficou mais perturbado que fascinado. Ele tem o direito de estar incrédulo. Nada nessa expedição faz sentido.\n"
+"As criaturas serpente nos perseguiram pelo que pareceram dias a fio. Finalmente conseguimos encontrar nosso caminho de volta para o acampamento, mas o preço foi alto. Perdemos todo o progresso que tínhamos feito, e muitos ficaram feridos ou afligidos por veneno de serpente. Não tivemos escolha a não ser enviar portadores à cidade mais próxima para trazer suprimentos adicionais e esperar a cicatrização de nossos ferimentos."
+
+msgid ""
+"<right><fancy>Thursday, July 2nd, 1925</fancy></right>\n"
+"Somehow, after much toil and many hours of exploration, we found the ruins that Alejandro sought, though we scarcely could have been ready for what we encountered in the wilds of the jungle. The rainforest was guarded. Guarded by unfathomable horrors: serpentine creatures driven by anger and hate. They hunted us relentlessly, wielding primitive weaponry and communicating in sharp hisses.\n"
+"Perhaps just as deadly were the human natives of the rainforest. They appeared to be Aztec warriors as far as dress and speech were concerned. Despite the conquering of the Aztec people hundreds of years ago, these warriors somehow survived. How they managed to remain undiscovered this long is beyond us. The warrior named Ichtaca was particularly intriguing. We were able to defuse the initial encounter with her, and surprisingly, she helped guide us through the jungle, only to disappear mysteriously when we reached the ruins. I have a feeling we have not seen the last of her.\n"
+"Alejandro did not agree with our decision to trust the Eztli warriors. He’s decided to stay at camp until further notice, disturbed as he is by their presence. I thought he would be excited to learn more about them, but I expect this discovery defies even his broad-minded theories. I suppose he has a right to be distrustful. Nothing about this expedition makes sense.\n"
+"We have cleared a route to what Alejandro believes is the main temple of the ruins. There is little time to rest. The serpent creatures seem intent on stopping us, so we cannot tarry any longer than necessary. Soon we will enter the ruins to see what secrets they hide."
+msgstr ""
+"<right><fancy>Quinta-feira, 2 de julho de 1925</fancy></right>\n"
+"De alguma forma, depois de muito esforço e muitas horas de exploração, encontramos as ruínas que Alejandro buscava, apesar de não estarmos nada preparados para o que encontramos nos ermos da selva. A floresta era vigiada. Guardada por horrores incompreensíveis: criaturas serpentinas movidas pela raiva e pelo ódio. Elas nos caçavam incansavelmente, usando armas primitivas e se comunicando em silvos agudos.\n"
+"Talvez tão letais quanto elas eram os humanos nativos da floresta. Eles pareciam ser guerreiros astecas, por suas roupas e sua fala. Apesar da conquista do povo asteca séculos atrás, estes guerreiros de alguma forma sobreviveram. Como eles não foram descobertos por todo esse tempo está além da nossa compreensão. A guerreira chamada Ichtaca era particularmente intrigante. Fomos capazes de apaziguar o encontro inicial com ela e, para nossa surpresa, ela ajudou a nos conduzir pela selva, só para desaparecer misteriosamente quando chegamos às ruínas. Tenho a sensação de que não foi a última vez que a vimos.\n"
+"Alejandro não concordou com nossa decisão de confiar nos guerreiros de Eztli. Ele decidiu ficar no acampamento por ora, perturbado com a presença deles. Pensei que ele ficaria animado para descobrir mais sobre eles, mas acho que essa descoberta desafia até mesmo suas inovadoras teorias. Ele tem o direito de estar desconfiado. Nada nessa expedição faz sentido.\n"
+"Abrimos um caminho para o que Alejandro acredita ser o templo principal das ruínas. Há pouco tempo para descansar. As criaturas serpente parecem determinadas a nos impedir, então não podemos demorar mais que o necessário. Logo entraremos nas ruínas para ver que segredos elas escondem."
+
+msgid ""
+"<right><fancy>Thursday, July 2nd, 1925</fancy></right>\n"
+"Somehow, after much toil and many hours of exploration, we found the ruins that Alejandro sought, though we scarcely could have been ready for what we encountered in the wilds of the jungle. The rainforest was guarded. Guarded by unfathomable horrors: serpentine creatures driven by anger and hate. They hunted us relentlessly, wielding primitive weaponry and communicating in sharp hisses.\n"
+"Perhaps just as deadly were the human natives of the rainforest. They appeared to be Aztec warriors as far as dress and speech were concerned. Despite the conquering of the Aztec people hundreds of years ago, these warriors somehow survived. How they managed to remain undiscovered this long is beyond us. I thought Alejandro would be excited to learn more about them, but he shared our alarm. We managed to fend off and interrogate their leader, a warrior named Ichtaca. Before she fled, she warned us to not go near the ruins. Unfortunately for her, we refuse to go home empty-handed.\n"
+"With Alejandro leading the way, we’ve cleared a route to what he believes is the main temple of the ruins. There is little time to rest. The serpent creatures seem intent on stopping us, so we cannot tarry any longer than necessary. Soon we will enter the ruins to see what secrets they hide."
+msgstr ""
+"<right><fancy>Quinta-feira, 2 de julho de 1925</fancy></right>\n"
+"De alguma forma, depois de muito esforço e muitas horas de exploração, encontramos as ruínas que Alejandro buscava, apesar de não estarmos nada preparados para o que encontramos nos ermos da selva. A floresta era vigiada. Guardada por horrores incompreensíveis: criaturas serpentinas movidas pela raiva e pelo ódio. Elas nos caçavam incansavelmente, usando armas primitivas e se comunicando em silvos agudos.\n"
+"Talvez tão letais quanto elas eram os humanos nativos da floresta. Eles pareciam ser guerreiros astecas, por suas roupas e sua fala. Apesar da conquista do povo asteca séculos atrás, estes guerreiros de alguma forma sobreviveram. Como eles não foram descobertos por todo esse tempo está além da nossa compreensão. Pensei que Alejandro ficaria animado para descobrir mais sobre eles, mas ele ficou apreensivo como nós. Conseguimos nos defender e interrogar a líder deles, uma guerreira chamada Ichtaca. Antes de fugir, ela nos avisou para não nos aproximarmos das ruínas. Infelizmente para ela, nós nos recusamos a voltar de mãos vazias.\n"
+"Com Alejandro nos conduzindo, abrimos um caminho para o que ele acredita ser o templo principal das ruínas. Há pouco tempo para descansar. As criaturas serpente parecem determinadas a nos impedir, então não podemos demorar mais que o necessário. Logo entraremos nas ruínas para ver que segredos elas escondem."

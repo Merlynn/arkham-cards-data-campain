@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid "Scenario II: The Doom of Eztli"
+msgstr "Cenário II: A Perdição de Eztli"
+
+msgid ""
+"<right><fancy>Wednesday, July 8th, 1925</fancy></right>\n"
+"Our runners, José and Maria, returned several days later. They were fully stocked with food, water, aspirin, and weapons. I am curious how deep Alejandro’s connections are in Mexico. For an outcast historian, he was able to secure guns and ammunition faster than I had anticipated. But perhaps it is better if he keeps his sources undisclosed.\n"
+"We ventured once more into the jungle. This time, we were prepared. We had learned from our previous excursion, and we made our way across the river canyon, venturing deeper south than we had dared before. Eventually we reached the ruins Alejandro sought, and soon we will enter what Alejandro believes is the main temple. Strangely, the serpent creatures we encountered earlier didn’t attack in force as we had feared. Could they have fled? Or are they simply lying in wait, preparing to ambush while we sleep at night?"
+msgstr ""
+"<right><fancy>Quarta-feira, 8 de julho de 1925</fancy></right>\n"
+"Nossos portadores, José e Maria, voltaram vários dias depois. Eles estavam completamente reabastecidos, com comida, água, aspirina e armas. Estou curioso sobre quão profundas são as conexões que Alejandro tem no México. Para um historiador pária, ele foi capaz de providenciar armas e munição mais rápido que eu esperava. Mas talvez seja melhor ele não divulgar suas fontes. Aventuramo-nos mais uma vez na selva. Desta vez, estávamos preparados. Tínhamos aprendido com nossa excursão anterior e cruzamos o canyon do rio, aventurando-nos mais ao sul do que havíamos ousado antes. Por fim, chegamos às ruínas que Alejandro buscava e logo entraremos no que ele acredita ser o templo principal. Estranhamente, as criaturas serpente que encontramos antes não atacaram em força como temíamos. Será que elas fugiram? Ou estão simplesmente esperando, se preparando para nos emboscar à noite quando estivermos dormindo?"
+
+msgid ""
+"<right><fancy>Friday, July 3rd, 1925</fancy></right>\n"
+"We spent most of yesterday moving our camp to the edge of the ruins. With the serpentine creatures still guarding the region, we have decided that a small party will have the best chance of slipping into the main temple unnoticed. I told Maria, the expedition’s naturalist, to take one of the trucks and wait beyond the northern edge of the rainforest. Our cartographer, José, is guarding the camp until we return. We’re on our own, but at least we’ve cleared an escape route in the event things go sour…"
+msgstr ""
+"<right><fancy>Sexta-feira, 3 de julho de 1925</fancy></right>\n"
+"Passamos a maior parte de ontem movendo o acampamento para o limiar das ruínas. Com as criaturas serpentinas ainda vigiando a região, decidimos que um grupo pequeno terá a melhor chance de entrar no templo principal sem ser notado. Eu disse a Maria, a naturalista da expedição, para pegar um dos caminhões e esperar além do limite norte da floresta. Nosso cartógrafo, José, está vigiando o acampamento até voltarmos. Estamos sós, mas pelo menos abrimos uma rota de fuga caso aconteça o pior…"
+
+msgid "Put the Entryway into play. Each investigator begins play in the Entryway."
+msgstr "Coloque a Entrada em jogo. Cada investigador começa o jogo na Entrada."
+
+msgid "Create the exploration deck. This is done by taking the five single-sided [[Ancient]] locations and shuffling them together, along with one copy each of the following treachery cards: Ill Omen, Deep Dark, Final Mistake, Entombed, and Crypt Chill."
+msgstr "Crie o baralho de exploração. Faça isso pegando os 5 locais de [[Ancient]] de lado único e embaralhando-os, junto com 1 cópia de cada uma das seguintes cartas de traição: Mau Agouro, Escuridão Profunda, Último Equívoco, Sepultado e Calafrio da Cripta."
+
+msgid "Set the following cards aside, out of play: The Harbinger of Valusia enemy, the Chamber of Time location, and the Relic of Ages asset."
+msgstr "Separe as seguintes cartas, fora de jogo: o inimigo Arauto de Valusia, o local Câmara do Tempo e o ativo Relíquia das Eras."
+
+msgid "Set aside each Poisoned weakness that is not already in an investigator’s deck."
+msgstr "Separe cada fraqueza Envenenado que já não esteja no baralho de um investigador."
+
+msgid "Check Campaign Log. Because there are three or fewer tally marks under “Yig’s Fury”"
+msgstr "Consulte o Registro da Campanha. Se houver três ou menos marcas em “Fúria de Yig”"
+
+msgid "Check Campaign Log. Because there are four or more tally marks under “Yig’s Fury”"
+msgstr "Consulte o Registro da Campanha. Se houver quatro ou mais marcas em “Fúria de Yig”"
+
+msgid "The creatures are upon you before you have time to react. You scream in agony as you are skewered by razor-sharp spears."
+msgstr "As criaturas atacam vocês antes que tenham tempo de reagir. Vocês gritam de dor ao serem perfurados por lanças afiadíssimas."
+
+msgid "Each investigator who was defeated is <b>killed</b>. (If there are not enough investigators to continue the campaign, the campaign is over and the players lose.)"
+msgstr "Cada investigador que foi derrotado <b>morre</b>. (Se não houver investigadores suficientes para continuar a campanha, a campanha acaba e os jogadores perdem.)"
+
+msgid "Suddenly, a distant voice hisses to the others, and the serpents tentatively retreat into the darkness. You run for your life, not taking any chances."
+msgstr "De repente, uma voz distante silva para as outras, e as serpentes recuam, hesitantes, para a escuridão. Vocês fogem para se salvar, não querendo arriscar."
+
+msgid "Record three tally marks under “Yig’s Fury.”"
+msgstr "Faça três marcas em “Fúria de Yig”."
+
+msgid "<i>“We can’t stop now—we have to go back inside!”</i>"
+msgstr "<i>“Não podemos parar agora — temos que voltar lá para dentro!”</i>"
+
+msgid "<i>“It’s too dangerous. This place must be destroyed.”</i>"
+msgstr "<i>“É perigoso demais. Este lugar precisa ser destruído.”</i>"
+
+msgid "In your Campaign Log, record that <i>the investigators recovered the Relic of Ages</i>. One investigator must add the Relic of Ages to their deck. This card does not count toward that investigator’s deck size."
+msgstr "No Registro da Campanha, anote que <i>os investigadores recuperaram a Relíquia das Eras</i>. Um investigador deve adicionar a Relíquia das Eras ao seu baralho. Essa carta não conta para o tamanho do baralho desse investigador."
+
+msgid "the investigators recovered the Relic of Ages."
+msgstr "os investigadores recuperaram a Relíquia das Eras."
+
+msgid "Is the Harbinger of Valusia still in play or set aside?"
+msgstr "O Arauto de Valusia ainda está em jogo ou separado?"
+
+msgid "Record in your Campaign Log that <i>the Harbinger is still alive</i>. Next to this, in parentheses, record how much damage is on the Harbinger of Valusia."
+msgstr "Anote no Registro da Campanha que o <i>Arauto ainda está vivo</i>. Ao lado, entre parênteses, anote quanto de dano há no Arauto de Valusia."
+
+msgid "Damage on Harbinger of Valusia:"
+msgstr "Dano no Arauto de Valusia:"
+
+msgid "the Harbinger is still alive (#X# damage)."
+msgstr "o Arauto ainda está vivo (#X# de dano)."
+
+msgid "For each vengeance point in the victory display, record one tally mark under “Yig’s Fury”in your Campaign Log."
+msgstr "Para cada ponto de vingança no painel de vitórias, faça uma marca em “Fúria de Yig” no Registro da Campanha."
+
+msgid "Vengeance in the victory display:"
+msgstr "Vingança no painel de vitórias:"
+
+msgid "Record an additional ten tally marks, as you have angered Yig with your foolish actions."
+msgstr "Registre dez marcas adicionais, pois vocês enfureceram Yig com seus atos tolos."
+
+msgid "Alejandro recovered the Relic of Ages."
+msgstr "Alejandro recuperou a Relíquia das Eras."
+
+msgid "The investigators must replay <b>Scenario II: The Doom of Eztli</b>. Reset the game to this scenario’s Setup. Do not record anything in your Campaign Log except for any trauma suffered from your previous game. No experience points are earned from your previous game."
+msgstr "Os investigadores devem repetir o <b>Cenário II: A Perdição de Eztli</b>. Reinicie o jogo para a Preparação desse cenário. Não anote nada no Registro da Campanha, exceto qualquer trauma sofrido no jogo anterior. Nenhuma experiência é obtida pelo jogo anterior."
+
+msgid "Any player whose investigator was killed or driven <b>insane</b> must choose a new investigator to play, as normal."
+msgstr "Qualquer jogador cujo investigador tenha morrido ou enlouquecido deve escolher um novo investigador para jogar, normalmente."
+
+msgid "During setup, when the Entryway is put into play, place one doom on it for each time this resolution has been reached."
+msgstr "Durante a preparação, quando a Entrada for colocada em jogo, coloque uma perdição nela para cada vez que esta resolução foi alcançada."
+
+msgid "Did any investigator gain the Poisoned weakness?"
+msgstr "Algum investigador ganhou a fraqueza Envenenado?"
+
+msgid "Poisoned"
+msgstr "Envenenado"
+
+msgctxt "masculine"
+msgid "#name# starts with 3 fewer resources."
+msgstr "#name# começa com 3 recursos a menos."
+
+msgctxt "feminine"
+msgid "#name# starts with 3 fewer resources."
+msgstr "#name# começa com 3 recursos a menos."
+
+msgid "Based on the events of <b>Interlude I: Restless Nights:</b>"
+msgstr "Baseado nos eventos de <b>Interlúdio I: Noites Intranquilas:</b>"
+
+msgid "The temple shakes with the ferocity of an earthquake, causing you to collapse to the ground. Serpent creatures emerge from the shadows around you, surrounding you completely. The thought, “This is how it ends,” flashes through your mind. For a moment, you contemplate the absurdity of your death. You can only hope that nobody else will be foolish enough to try to explore these forsaken ruins."
+msgstr "O templo treme com a ferocidade de um terremoto, fazendo vocês caírem no chão. Criaturas serpente emergem das sombras à sua volta, cercando vocês completamente. O pensamento “Então é assim que termina” passa pela sua mente. Por um momento, vocês contemplam o absurdo de sua morte. Só podem torcer para que ninguém mais seja tolo o bastante para tentar explorar estas ruínas abandonadas."
+
+msgid "Each investigator resigned before act 3"
+msgstr "Cada investigador renunciou antes do ato 3"
+
+msgid ""
+"(The following is scrawled below the previous journal entry.)\n"
+"The outside of the temple ruins appeared Aztec in origin, but once we breached the interior, it became clear that these buildings had a very different and inhuman origin. The ruins were alive. The grooves in the walls were illuminated as though powered by electricity, and a faint hum of energy reverberated throughout the halls. In spite of the serpent creatures, we were able to reach a hidden passage that led deeper underground.\n"
+"In the central chamber of these underground halls, we found our prize: a steel orb of unknown origin, gently humming and glowing with a dim blue light. It was attached delicately to a bronze frame, appearing almost religious in its significance, and we knew it could not have been made by the Aztecs.\n"
+"With the artifact in tow, we fled the ruins. The building had started to crumble around us, as though the orb was the only thing keeping it standing. Had it been powering the ruins, like a battery? What exactly was this device that the serpents guarded so fervently?\n"
+"Maria was waiting for us with the trucks when we finally reached the northern edge of the rainforest. We’re getting the hell out of this serpent-infested jungle while we still can."
+msgstr ""
+"(O texto a seguir está rabiscado abaixo da anotação anterior no diário.)\n"
+"A parte externa das ruínas do templo parecia ser de origem asteca, mas, uma vez que chegamos ao interior, ficou claro que essas construções tinham uma origem bem diferente e inumana. As ruínas estavam vivas. As ranhuras nas paredes estavam iluminadas como se fossem elétricas, e um fraco zumbido de energia reverberava pelos corredores. Apesar das criaturas serpente, fomos capazes de chegar a uma passagem escondida que levava mais fundo no subterrâneo.\n"
+"Na câmara central desses salões subterrâneos, encontramos nosso prêmio: um orbe de aço de origem desconhecida, zumbindo suavemente e brilhando com uma fraca luz azul. Ele estava afixado delicadamente a uma moldura de bronze, parecendo ter um significado quase religioso, e sabíamos que não poderia ter sido feito pelos astecas.\n"
+"De posse do artefato, fugimos das ruínas. A construção tinha começado a desmoronar à nossa volta, como se o orbe fosse a única coisa que a mantinha de pé. Ele estava energizando as ruínas, como uma bateria? O que exatamente era esse dispositivo que as serpentes guardavam com tanto fervor?\n"
+"Maria estava esperando por nós com os caminhões quando finalmente chegamos ao limite norte da floresta. Vamos sumir dessa selva infestada de serpentes enquanto podemos."
+
+msgid ""
+"(The following is scrawled below the previous journal entry.)\n"
+"It is not in my nature to leave a thing unfinished. For the sake of my fallen comrades, I have taken it upon myself to record the remainder of our expedition in this journal.\n"
+"The others never made it out of the temple. I convinced two of the other members of the expedition, José and Andrea, to venture in after the others…But now I fear a terrible fate has befallen them, as well.\n"
+"Thankfully, my gambit was worthwhile. While José and Andrea searched for the others, I snuck into the temple and took a different route. Having seen what we have seen, knowing what we know now, I couldn’t have returned to the university without evidence of our discovery. While the serpent creatures were distracted, I was able to reach a hidden passageway that led deeper underground.\n"
+"In the central chamber of these underground halls, I found the device. The orb was made of an unnatural steel, attached delicately to its bronze frame. It pulsed with power in my hands and glowed with a dim blue light. Any fool could tell that it was not made by the Aztecs, but the other members of the expedition could not even begin to understand its true significance. The ruins started to crumble around me as I left, but it mattered not. The relic was all that mattered now.\n"
+"With the artifact in tow, I returned to camp and told the others it was time to depart. Maria was waiting for us with the trucks when we finally reached the northern edge of the jungle. Now we are headed to Texas, where we will cross the border into the United States.\n"
+"It is a shame what happened to the others. Their sacrifice will not be in vain. Now, my work can continue.\n"
+"– Alejandro Vela"
+msgstr ""
+"(O texto a seguir está rabiscado abaixo da anotação anterior no diário.)\n"
+"Não é do meu feitio deixar algo inacabado. Pelo bem de meus camaradas que tombaram, assumi a responsabilidade de registrar neste diário o resto de nossa expedição.\n"
+"Os outros nunca saíram do templo. Eu convenci dois dos outros membros da expedição, José e Andrea, a entrar para procurar os outros… mas agora temo que eles também tiveram um destino terrível.\n"
+"Felizmente, minha aposta deu certo. Enquanto José e Andrea procuravam os outros, eu entrei furtivamente no templo e segui por outro caminho. Tendo visto o que nós vimos, sabendo o que agora sabemos, eu não poderia ter voltado à universidade sem provas da nossa descoberta. Enquanto as criaturas serpente estavam distraídas, eu consegui chegar a uma passagem escondida que levava mais fundo no subterrâneo.\n"
+"Na câmara central desses salões subterrâneos, encontrei o dispositivo. O orbe era feito de um aço sobrenatural, afixado delicadamente a sua moldura de bronze. Ele pulsava de poder nas minhas mãos e brilhava com uma fraca luz azul. Qualquer idiota perceberia que ele não foi feito pelos astecas, mas os outros membros da expedição não faziam a menor ideia do verdadeiro significado dele. As ruínas começaram a desmoronar à minha volta enquanto eu saía, mas não importava. A relíquia era tudo o que importava agora.\n"
+"De posse do artefato, voltei ao acampamento e disse aos outros que era hora de partir. Maria estava esperando por nós com os caminhões quando finalmente chegamos ao limite norte da selva. Agora estamos a caminho do Texas, onde cruzaremos a fronteira para os Estados Unidos.\n"
+"É uma pena o que aconteceu aos outros. O sacrifício deles não será em vão. Agora, meu trabalho pode continuar.\n"
+"– Alejandro Vela"
+
+msgid ""
+"(The following is scrawled below the previous journal entry.)\n"
+"This was a mistake. This was all a terrible mistake. We escaped the temple with our lives, but not a moment too soon. The ruins were alive. It was as though the walls knew of our intrusion, hated us for our presence. Wanted us out. Wanted us dead.\n"
+"We have gathered outside the temple where José is waiting for us. Alejandro, unwilling to return home empty-handed, wants us to go back inside. We must decide what to do next."
+msgstr ""
+"(O texto a seguir está rabiscado abaixo da anotação anterior no diário.)\n"
+"Isso foi um erro. Tudo isso foi um terrível erro. Escapamos do templo com vida, mas na última hora. As ruínas estavam vivas. Era como se as paredes soubessem de nossa intrusão e odiassem nossa presença. Nos quisessem fora. Nos quisessem mortos.\n"
+"Nos reunimos do lado de fora do templo, onde José estava nos esperando. Alejandro, se recusando a voltar de mãos vazias, quer que entremos de novo. Precisamos decidir o que fazer agora."
+
+msgid ""
+"(The following is scrawled below the previous journal entry.)\n"
+"We’ve made our decision. Alejandro is right: we’ve come too far to back down now. Our plan is to regroup and head back into the temple once more. Even from here, we can tell that the layout of the temple has warped and changed. The ruins seem to have reset to their dormant state. With any luck, we’ll make it out this time…"
+msgstr ""
+"(O texto a seguir está rabiscado abaixo da anotação anterior no diário.)\n"
+"Tomamos nossa decisão. Alejandro tem razão: chegamos muito longe para recuar agora. Nosso plano é nos reagruparmos e entrarmos novamente no templo. Mesmo daqui, podemos ver que a estrutura do templo se distorceu e alterou. As ruínas parecem ter retornado a seu estado dormente. Com sorte, conseguiremos sair desta vez…"
+
+msgid ""
+"(The following is scrawled below the previous journal entry.)\n"
+"We made our decision. There was no way we were going back into that deathtrap. Thankfully, there was another way. José had brought some TNT from the trucks, and there was more than enough to level the damned place.\n"
+"That night, we put on a hell of a fireworks show. The jungle protested. Birds scattered into the sky, the ground rumbled, and hateful snarls surrounded our camp. But the dynamite did its job. Once the dust settled, we began sifting through the debris in search of anything with historical or cultural significance we could bring back to Arkham.\n"
+"José was the first to notice the blue light peeking out from underneath the remains of the temple. The rays grew in intensity with each passing moment. As we started clearing the rubble in order to discover the source of the light, there was a sudden flash, and the debris at the center of the ruins scattered. A steel orb of unknown origin lay on top of the rubble, gently humming. It was attached delicately to a bronze frame, appearing almost religious in its significance. The blue glow emanating from the device dimmed as I touched it. There was no way a device like this was built by the Aztecs.\n"
+"With the artifact in tow, we left the smoldering temple behind us. We had outstayed our welcome in this rainforest, and we knew it. Around us, the jungle hissed. The ground slithered and crawled with snakes. In the darkness, we heard shouts in a language we could not understand. There was no time to pack up camp; we ran as soon as we had the chance. Andrea was struck in her throat by a black-feathered arrow, her startled scream captured in grim perpetuity. José was grabbed by a giant boa as we fled north into the river canyon. His neck snapped before we could reach him.\n"
+"Maria was waiting for us with the trucks when we finally reached the northern edge of the jungle. We didn’t stop until we crossed into Mexico City. Even now I do not feel safe: who could, after seeing what we have seen?\n"
+"To hell with the Eztli and to hell with this forsaken place."
+msgstr ""
+"(O texto a seguir está rabiscado abaixo da anotação anterior no diário.)\n"
+"Tomamos nossa decisão. Não havia nenhuma chance de entrarmos novamente naquela armadilha. Felizmente, havia outra maneira. José tinha trazido dinamite dos caminhões, mais que suficiente para devastar esse lugar maldito. \n"
+"Naquela noite, fizemos um belo espetáculo de fogos de artifício. A selva protestou. Pássaros se espalharam pelo céu, o chão tremeu e rosnados de ódio cercaram nosso acampamento. Mas a dinamite fez o trabalho dela. Quando a poeira baixou, começamos a vasculhar entre os destroços qualquer coisa de importância histórica ou cultural que pudéssemos trazer para Arkham.\n"
+"José foi o primeiro a notar a luz azul vinda debaixo dos destroços do templo. A intensidade dos raios aumentava a cada momento que passava. Quando começamos a limpar o entulho para descobrir a fonte da luz, houve um lampejo de repente, e os destroços no centro das ruínas se espalharam. Um orbe de aço de origem desconhecida estava em cima do entulho, zumbindo suavemente. Ele estava afixado delicadamente a uma moldura de bronze, parecendo ter um significado quase religioso. O brilho azul que emanava do dispositivo enfraqueceu quando o toquei. Não há como um dispositivo como esse ter sido construído pelos astecas.\n"
+"De posse do artefato, deixamos para trás o templo ainda queimando. Já tínhamos ficado tempo demais na floresta e sabíamos disso. À nossa volta, a selva sibilava. O chão se movia e rastejava, coberto de cobras. Na escuridão, ouvimos gritos em uma língua que não entendíamos. Não havia tempo de desmontar o acampamento, fugimos assim que tivemos chance. Andrea foi atingida na garganta por uma flecha com penas pretas, seu grito de surpresa capturado em uma mórbida perpetuidade. José foi agarrado por uma jiboia gigante enquanto fugíamos para o norte, entrando no canyon do rio. O pescoço dele quebrou antes que pudéssemos alcançá-lo.\n"
+"Maria estava esperando por nós com os caminhões quando finalmente chegamos ao limite norte da selva. Não paramos enquanto não entramos na Cidade do México. Mesmo agora, não me sinto seguro: quem se sentiria, depois de ver o que vimos?\n"
+"Ao diabo com o povo Eztli e ao diabo com esse lugar abandonado."
+
+msgid "Where is the Harbinger of Valusia?"
+msgstr "Onde está o Arauto de Valusia?"
+
+msgctxt "nonbinary"
+msgid "#name# starts with 3 fewer resources."
+msgstr "#name# começa com 3 recursos a menos."

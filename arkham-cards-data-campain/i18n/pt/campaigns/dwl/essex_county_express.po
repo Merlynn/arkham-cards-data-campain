@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "The Essex County Express"
+msgstr "O Expresso do Condado de Essex"
+
+msgid "Scenario III: The Essex County Express"
+msgstr "Cenário III: O Expresso do Condado de Essex"
+
+msgid ""
+"Recent events in the Museum have forced you to re-evaluate Armitage’s tale about Dunwich. It cannot be a coincidence—Wilbur Whateley, the Necronomicon, the creature from Dunwich, and the people and creatures who attacked here in Arkham—everything must be connected. You’re certain now where you must head: the lonely and dismal town of Dunwich Village.\n"
+"You consider telling the Massachusetts State Police what you know, but the negative consequences outweigh the potential gain. Given the nature of your story, they would likely write your stories off as an absurd hoax. Worse, they could lock you up. After all, you were present in an illegal speakeasy, and you also trespassed in the museum. Instead, you decide to head to Dunwich yourself, in order to investigate further.\n"
+"You pack everything you think you might need and manage to get some rest for the night. In the morning, you head to the train station in Northside and purchase a last-minute express ticket. Dunwich is several hours by train northwest along the Miskatonic River Valley. There is no train station in Dunwich, but you manage to phone one of Armitage’s acquaintances in the small village: a man by the name of Zebulon Whateley who was present during the events several months ago.\n"
+"Armitage’s notes indicate that the Whateley family is spread across many branches, some decadent and unscrupulous, others “undecayed” or otherwise untouched by nefarious and diabolic rites. According to Armitage, Zebulon’s branch of the family lay somewhere between the decayed and undecayed Whateleys, who knew of the traditions of his ancestors, but was not corrupted by them. He agrees to pick you up at the closest station and drive you into town\n"
+"As the train departs from Arkham, you feel the events of the previous night catching up to you, and exhaustion sets in. But before you can safely reach your destination, the train car suddenly rumbles and shakes, startling you out of your reverie. The train loudly skids to a violent halt, and you hear a rattling noise behind you…"
+msgstr ""
+"Os eventos recentes no Museu forçaram vocês a reavaliar a história de Armitage sobre Dunwich. Não pode ser coincidência — Wilbur Whateley, o Necronomicon, a criatura de Dunwich, e as pessoas e criaturas que promoveram ataques em Arkham — tudo deve estar conectado. Vocês sabem onde precisam ir agora: à solitária e funesta cidadezinha de Dunwich Village.\n"
+"Vocês chegaram a pensar em contar à Polícia do Estado de Massachusetts o que sabem, mas as consequências negativas superam o ganho potencial. Considerando a natureza de sua história, eles provavelmente registrariam suas declarações como um trote absurdo. Pior, poderiam trancafiar vocês. Afinal de contas, vocês estavam presentes em um speakeasy ilegal, e também invadiram o museu. Em vez disso, vocês decidem partir para a própria Dunwich, para investigar mais.\n"
+"Vocês guardam tudo o que podem precisar e tentam descansar um pouco durante a noite. De manhã, partem para a estação de trem em Northside e compram uma passagem de última hora. Dunwich fica a algumas horas de trem a noroeste, seguindo o Vale do Rio Miskatonic. Não há estação de trem em Dunwich, mas vocês conseguem ligar para um conhecido de Armitage em um vilarejo: um homem chamado Zebulon Whateley, que estava presente nos eventos meses atrás.\n"
+"As anotações de Armitage indicam que a família Whateley está espalhada por vários ramos, alguns decadentes e inescrupulosos, outros “imaculados”, ou, pelo menos, não tocados por ritos nefastos e diabólicos. De acordo com Armitage, a linha familiar de Zebulon está em algum ponto entre os Whateley maculados e imaculados, que conheciam as tradições de seus ancestrais, mas não foram corrompidos por elas. Ele concorda em pegá-los na estação mais próxima e levá-los de carro para a cidadezinha.\n"
+"Conforme o trem parte de Arkham, vocês têm a sensação de que os eventos da noite anterior estão cobrando o seu preço, e começam a se sentir exaustos. Mas antes que consigam alcançar seu destino em segurança, o carro do trem subitamente ronca e estremece, os arrancando de seus devaneios. Com muito barulho, o trem desliza até parar violentamente, e vocês escutam um ruído chacoalhante vindo de trás…"
+
+msgid "Put one of the three Engine Car locations into play at random. Remove the other versions of Engine Car from the game. Then, put six of the eight Train Car locations into play at random, in a straight line to the left of the Engine Car. Remove the remaining two Train Car locations from the game."
+msgstr "Coloque uma das três Locomotivas em jogo aleatoriamente . Remova do jogo as outras versões de locomotiva. Então, coloque seis locais de Carro do Trem em jogo aleatoriamente, em uma linha reta à esquerda da Locomotiva. Remova do jogo os dois locais de Carro do Trem restantes."
+
+msgid "Reveal the leftmost Train Car. Each investigator begins play in that location. (If that location has a ‘forced’ effect that triggers upon entering that location, ignore it.)"
+msgstr "Revele o Carro do Trem mais à esquerda. Os investigadores começam nesse local. (Se esse local tiver um efeito ‘forçado’ que ativa quando algum investigador entra nele, ignore o efeito.)"
+
+msgid "Set all 4 copies of Across Space and Time aside, out of play."
+msgstr "Separe todas as 4 cópias de Através do Espaço e do Tempo, fora do jogo."
+
+msgid "Moving on the Train: “Left” and “Right”"
+msgstr "Movendo-se no Trem: “Esquerda” e “Direita”"
+
+msgid ""
+"During this scenario, locations are lined up from left to right, with the Engine Car as the rightmost location. Whenever a card effect refers to “the location to the left,” or “the location to the right,” it refers to the location immediately to your location’s left or right.\n"
+"Any card effects that reference a direction (left or right) should be interpreted from the perspective of the diagram on the previous page."
+msgstr ""
+"Durante este cenário, os locais estão enfileirados da esquerda para a direita, com a Locomotiva na ponta direita. Sempre que um efeito de carta se referir a “o local à esquerda,” ou “o local à direita,” está se referindo ao local imediatamente à esquerda ou à direita.\n"
+"Os efeitos de carta que mencionam uma direção (esquerda ou direita) devem ser interpretados segundo a perspectiva do diagrama abaixo."
+
+msgid "the investigators were delayed on their way to Dunwich."
+msgstr "os investigadores se atrasaram a caminho de Dunwich."
+
+msgid "Each investigator who was defeated has acquired the Across Space and Time weakness and must add 1 copy of it to their deck. This card does not count toward that investigator’s deck size."
+msgstr "Os investigadores que foram derrotados adquirem a fraqueza Através do Espaço e do Tempo e precisam adicionar 1 cópia dela ao baralho deles. Essa carta não conta no limite de tamanho de baralho."
+
+msgid "Each investigator who was defeated earns 1 bonus experience as their experience beyond the gate grants them insight into the cosmos."
+msgstr "Cada investigador que foi derrotado ganha 1 de experiência bônus, pois a sua experiência além do portal concedeu conhecimento sobre o cosmo."
+
+msgid "Dr. Henry Armitage must be removed from that investigator's deck."
+msgstr "Dr. Henry Armitage deve ser removido do baralho desse investigador."
+
+msgid "Dr. Francis Morgan was kidnapped."
+msgstr "Dr. Francis Morgan foi sequestrado."
+
+msgid "Dr. Francis Morgan must be removed from that investigator's deck."
+msgstr "Dr. Francis Morgan deve ser removido do baralho desse investigador."
+
+msgid "Professor Warren Rice was kidnapped."
+msgstr "Professor Warren Rice foi sequestrado."
+
+msgid "Professor Warren Rice must be removed from that investigator's deck."
+msgstr "Professor Warren Rice deve ser removido do baralho desse investigador."
+
+msgid "Investigator Defeat"
+msgstr "Investigador Derrotado"
+
+msgid "Your experience beyond the gate is simultaneously terrifying and impossible to recall with clarity. A hypnotic spectacle of lights, otherworldly sensations, and altered geometry dances at the tattered edges of your mind. An unearthly voice from beyond rings in your ears, its significance an enigma. When you awaken, you find yourself in the woods, several miles from the Miskatonic River. Destroyed train cars surround you. They are crumpled as if from a severe impact; they are also decayed as if years of rust and squalor have claimed them. There is no sign of the other passengers."
+msgstr "Sua experiência além do portal é ao mesmo tempo aterrorizante e impossível de se recordar com clareza. Um espetáculo hipnótico de luzes, sensações de além do mundo terreno e geometria alterada dança pelos limites em frangalhos de sua mente. Uma voz sobrenatural vinda do além ressoa em seus ouvidos, seu significado é um enigma. Quando você acorda, se descobre a alguns quilômetros do Rio Miskatonic. Vagões de trem destruídos lhe cercam. Eles estão amassados, como se tivessem passado por um grande acidente. Também estão apodrecidos, como se anos de ferrugem e sujeira tivessem reivindicado suas carcaças. Não há sinal de outros passageiros."
+
+msgid "No resolution(each investigator was defeated)"
+msgstr "Se nenhuma resolução foi alcançada (todos os investigadores foram derrotados)"
+
+msgid "You breathe a sigh of relief as the gate behind the train collapses harmlessly upon itself. The few passengers who survived the ordeal seem unable to comprehend what just happened. One passenger mentions “a pipe bursting in the rear car,” and that quickly becomes the explanation for the innocent and ignorant, those who either cannot or choose not to delve further into the mystery. You, on the other hand, know better… although in hindsight, you wish you didn’t."
+msgstr "Vocês suspiram de alívio quando o portal atrás do trem desaba sobre si mesmo inofensivamente. Os poucos passageiros que sobreviveram à provação parecem incapazes de compreender o que aconteceu. Um deles menciona “um cano estourando no carro traseiro,” e isso logo se torna a explicação para os inocentes e os ignorantes, aqueles que não conseguem se embrenhar mais a fundo no mistério, ou que preferem não fazê-lo. Vocês, por outro lado, sabem o que realmente passou… embora, em retrospecto, preferissem a ignorância."
+
+msgid "Rattled, you begin walking alongside the train tracks, making your way towards Dunwich."
+msgstr "Abalados, vocês começam a andar ao longo dos trilhos, indo em direção a Dunwich."
+
+msgid "Scenario III"
+msgstr "Cenário III"
+
+msgid "Each investigator was defeated"
+msgstr "Cada investigador foi derrotado"

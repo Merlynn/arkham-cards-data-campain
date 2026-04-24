@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid "Interlude IV: Those Held Captive"
+msgstr "Interlúdio IV: Os Prisioneiros"
+
+msgid "Check Campaign Log. If <i>the process backfired</i>â€¦"
+msgstr "Consulte o Registro da Campanha. Se <i>o processo falhou</i>…"
+
+msgid "Check Campaign Log. If <i>the process backfired spectacularly</i>â€¦"
+msgstr "Consulte o Registro da Campanha. Se <i>o processo falhou espetacularmente</i>…"
+
+msgid "Each investigator reveals a random chaos token from the chaos bag. Consult the list below to see what side effects result from your mishap."
+msgstr "Cada investigador revela uma ficha de caos aleatória da bolsa de caos. Consulte a lista abaixo para ver os efeitos colaterais que resultam do seu acidente."
+
+msgid "[elder_sign] or +1 token."
+msgstr "Fichas [elder_sign] ou +1."
+
+msgid "Suffer no ill efects."
+msgstr "Não sofre nenhum efeito negativo."
+
+msgid "[skull] token or any number other than +1"
+msgstr "Fichas [skull] ou qualquer número diferente de +1"
+
+msgid "Gain the Out of Body Experience weakness, and must add it to their deck."
+msgstr "Ganha a fraqueza Experiência Extracorpórea e deve adicioná-la ao baralho dele."
+
+msgid "[cultist], [tablet], [elder_thing], or [auto_fail] token"
+msgstr "Fichas [cultist], [tablet], [elder_thing] ou [auto_fail]"
+
+msgid "You must use the Body of a Yithian investigator card as their investigator card for the remainder of the campaign. He or she also gains the Out of Body Experience weakness, and must add it to their deck."
+msgstr "Ele deve usar a carta de investigador Corpo de um Yithiano como sua carta de investigador pelo resto da campanha. Ele também ganha a fraqueza Experiência Extracorpórea e deve adicioná-la ao baralho dele."
+
+msgid "Each investigator reveals two random chaos token from the chaos bag, choosing the token that is lower on the list to resolve, and ignoring the other. Consult the list below to see what side effects result from your mishap."
+msgstr "Cada investigador revela duas fichas de caos aleatórias em vez de uma, resolvendo a ficha que estiver mais abaixo na lista e ignorando a outra. Consulte a lista abaixo para ver os efeitos colaterais que resultam do seu acidente."
+
+msgid "Check the chaos bag and the Campaign Log. If all of the following are true, the lead investigator reads <b>A Mind Recovered</b>. If any of the following are not true, the lead investigator reads <b>Forever Lost</b> instead."
+msgstr "Consulte a bolsa de caos e o Registro da Campanha. Se todas as condições a seguir forem verdadeiras, o investigador líder lê <b>Uma Mente Recuperada</b>. Se alguma das condições a seguir não for verdadeira, o investigador líder lê <b>Perdido para Sempre</b> em vez disso."
+
+msgid "There are 2 or more [tablet] tokens in the chaos bag."
+msgstr "Há 2 ou mais fichas [tablet] na bolsa de caos."
+
+msgid "Was the Custodian under an investigatorâ€™s control when the previous scenario ended?"
+msgstr "O Custódio estava sob o controle de um investigador quando o cenário anterior terminou?"
+
+msgid "Alejandro is set against you."
+msgstr "Alejandro está contra você."
+
+msgid "Alejandro remembers everything."
+msgstr "Alejandro se lembra de tudo."
+
+msgid "A Mind Recovered"
+msgstr "Uma Mente Recuperada"
+
+msgid "You turn your attention to your surroundings. Though the creatures that ambushed you are nowhere to be found, Alejandro lies on the ground nearby, stirring into consciousness. To your surprise, he appears just as confused as you are. At first, it seems as though he recalls nothing of the previous expedition or the Eztli relic, but then his eyes suddenly spark with recognition. He grips your shoulder tightly and gazes at you as though for the first time in years. â€œI do remember! We shared one mind for some time, the creature and I. It wished to find the Eztli relic, though for what purpose, I do not know.â€ He slumps backward against the stone wall, recovering from the sudden influx of memories. â€œYou believed me at every turn, even when the creature had control. You saved me from that abysmal place and brought me back to humanity. For this, I cannot begin to repay you.â€ He shakes your hand vigorously, filled with a sudden and intense resolve. â€œWe will right all of this, you and I. Then, we will tell the world what we have seen.â€"
+msgstr "Você volta sua atenção aos arredores. Embora você não veja as criaturas que o emboscaram em lugar nenhum, Alejandro está deitado no chão próximo, recuperando a consciência. Para sua surpresa, ele parece tão confuso quanto você. Em um primeiro momento, parece que ele não se lembra de nada da expedição anterior ou da relíquia de Eztli, mas logo um lampejo de reconhecimento vem aos olhos dele. Ele segura seu ombro com força e olha para você como se fosse a primeira vez em anos. “Eu me lembro! Nós compartilhamos uma mente durante algum tempo, a criatura e eu. Ela queria encontrar a relíquia de Eztli, embora eu não soubesse o propósito.” Ele se encosta na parede de pedra, recuperando-se do fluxo súbito de memórias. “Você acreditou em mim o tempo todo, até quando a criatura estava no controle. Você me salvou daquele lugar abissal e me trouxe de volta à humanidade. Eu não conseguiria nem chegar perto de retribuir.” Ele aperta sua mão vigorosamente, cheio de uma determinação súbita e intensa. “Nós vamos consertar tudo isso, você e eu. Então, diremos ao mundo o que vimos.”"
+
+msgid "In your Campaign Log, record that <i>Alejandro remembers everything</i>. Add 1 [tablet] token to the chaos bag for the remainder of the campaign."
+msgstr "No Registro da Campanha, anote que <i>Alejandro se lembra de tudo</i>. Adicione 1 ficha [tablet] à bolsa de caos pelo resto da campanha."
+
+msgid "Forever Lost"
+msgstr "Perdido para Sempre"
+
+msgid "You turn your attention to your surroundings. Both Alejandro and the creatures that ambushed you are nowhere to be found. You wonder how long Alejandro was in league with them, and why. Perhaps you will never know. However, you suspect this is not the last you will see of him."
+msgstr "Você volta sua atenção aos arredores. Você não vê Alejandro nem as criaturas que o emboscaram em lugar nenhum. Você se pergunta por quanto tempo Alejandro estava aliado a elas, e por quê. Talvez você nunca saiba. No entanto, você suspeita que essa não é a última vez que você o verá."
+
+msgid "In your Campaign Log, record that <i>Alejandro is set against you</i>. If Alejandro Vela is part of an investigatorâ€™s deck, remove him from that investigatorâ€™s deck for the remainder of the campaign."
+msgstr "No Registro da Campanha, anote que <i>Alejandro está contra você</i>. Se Alejandro Vela estiver no baralho de um investigador, remova-o do baralho desse investigador pelo resto da campanha."
+
+msgid "The narrow steps on the other side of the stone doorway seem almost endless. Though a dim red glow emanates from deeper within the cavern, no matter how many steps you traverse, the glow does not brighten. It almost seems to grow more distant with each step, mocking your tenacity. After a short while, you come to a small ledge where a stone gate bars your passage deeper into the cavern. The gate bears a familiar carved pattern, faded from age and disrepair, and seeping with an oddly discolored purulence."
+msgstr "Os degraus estreitos do outro lado da porta de pedra parecem não ter fim. Embora um fraco brilho vermelho emane das profundezas da caverna, por mais degraus que você desça, o brilho não fica mais intenso. É quase como se ele ficasse mais distante a cada degrau, zombando da sua tenacidade. Pouco depois, você chega a uma pequena elevação onde um portão de pedra bloqueia sua passagem para as profundezas da caverna. O portão tem um padrão familiar entalhado, desgastado pelo tempo e pelo abandono, do qual escorre uma purulência estranhamente descolorida."
+
+msgid "Check your supplies to see if any investigator has chalk."
+msgstr "Verifique seus suprimentos para ver se algum investigador tem giz."
+
+msgid "The Way is Open"
+msgstr "O Caminho Está Aberto"
+
+msgid "The Way is Shut"
+msgstr "O Caminho Está Fechado"
+
+msgid "The situation sparks your memory, and you consult the expedition journal. The pattern is similar to one found in the Eztli ruins. Using your chalk and the drawings in your journal as a reference, you restore the glyph in its entirety, and the grooves glow brightly once more. The stone gate lifts on its own, and you are able to continue onward."
+msgstr "A situação refresca sua memória, e você consulta o diário da expedição. O padrão é similar ao encontrado nas ruínas de Eztli. Usando seu giz e os desenhos no diário como referência, você restaura o glifo completamente, e as ranhuras brilham intensamente mais uma vez. O portão de pedra se ergue sozinho, e você pode seguir em frente."
+
+msgid "You are unsure how to proceed. After debating the merits of each of your options, you decide that brute force may be the only solution. It takes all of your strength to lift the stone, and you open the way forward for each of you one at a time. It is no simple task, and your body aches tremendously from the effort."
+msgstr "Você não tem certeza de como prosseguir. Após discutir os méritos de todas as opções, vocês decidem que a força bruta talvez seja a única solução. É preciso toda a sua força para levantar a pedra, mas você abre o caminho para um de cada vez. Não é uma tarefa simples, e seu corpo dói tremendamente com o esforço."
+
+msgid "When drawing opening hands during the next scenario, investigators cannot take a mulligan."
+msgstr "Ao comprar as mãos iniciais durante o cenário seguinte, os investigadores não poderão fazer um mulligan."
+
+msgid "Hours later, you are almost too weary to go on. Every inch of your body aches with intense pain. There is nothing in this desolate cavern to eat but the occasional wild mushroom, and although temptation gnaws at your insides, you cannot tell which are toxic and which are healthyâ€¦"
+msgstr "Horas depois, você está quase cansado demais para continuar. Você sente uma dor intensa em cada centímetro do seu corpo. Não há nada para comer nesta caverna desolada, exceto raros cogumelos selvagens; e, embora a tentação coma você por dentro, você não sabe quais são tóxicos e quais são saudáveis…"
+
+msgid "The poison has spread to nearly every part of your body. Your skin pales, and you are covered in cold feverish sweat. Simply rising to your feet requires a tremendous effort, and you get no rest at night despite your exhaustion. It wonâ€™t be long now before the poison claims your life."
+msgstr "O veneno se espalhou por quase todas as partes do seu corpo. Sua pele está pálida, e você está coberto de suor frio e febril. Até mesmo se levantar exige um tremendo esforço, e você não consegue descansar à noite, apesar da exaustão. Não vai demorar muito tempo para o veneno tirar sua vida."
+
+msgid "After descending hundreds and hundreds of steps, you decide to stop and rest. Though your watch tells you that night has fallen, the lack of natural sky is starting to affect your internal clock. With no flat ledge in sight, each member of your party claims one of the many narrow steps to sleep on."
+msgstr "Após descer centenas e centenas de degraus, você decide parar e descansar. Embora seu relógio diga que já caiu a noite, a falta de um céu natural está começando a afetar seu relógio interno. Sem nenhuma superfície lisa em lugar nenhum, cada membro do seu grupo escolhe um dos muitos degraus estreitos para dormir."
+
+msgid "Sleep does not come easily for you. Barely any layers protect you from the bitter cold of the underground cavern, and you lie shivering for hours before exhaustion finally claims you. You awaken every hour or so as the shifting of your body almost causes you to tumble off your stone perch. When â€œmorningâ€ comes, you are even more weary than you were the previous night."
+msgstr "O sono não vem fácil para você. Sem quase nenhuma camada protegendo você do frio cruel da caverna subterrânea, você se deita tremendo durante horas até que a exaustão finalmente toma conta de você. Você acorda a cada uma hora, aproximadamente, pois o movimento do seu corpo quase faz com que você caia de seu leito de pedra. Quando chega a “manhã”, você está ainda mais cansado que na noite anterior."
+
+msgid "Though you long for a proper bed, at least your blanket protects you from the frigid chill that permeates the cavern. When â€œmorningâ€ arrives, your body longs for more sleep, but you know you must press onward and reach the Nexus as fast as you canâ€¦"
+msgstr "Embora você sinta falta de uma cama de verdade, pelo menos seu cobertor protege você do frio gélido que permeia a caverna. Quando a “manhã” chega, seu corpo pede mais sono, mas você sabe que precisa avançar e chegar ao Nexus o mais rápido possível…"
+
+msgid "Choose chaos token"
+msgstr "Escolha uma ficha de caos"

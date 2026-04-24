@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid ""
+"<right><fancy>Tuesday, June 2nd, 1925</fancy></right>\n"
+"There will be no rest for us this summer, it seems.\n"
+"Today I met with Harlan Earnstone, a historical theorist at Miskatonic University and an old friend of mine. He’d said he had a job offer for me, but frankly, I didn’t know what to expect.\n"
+"Harlan introduced me to an associate of his: Alejandro Vela, a distinguished historian from across the southern border. Mr. Vela is a graduate of a prestigious university in Mexico City, and has spent many years researching the Aztec Empire. He claims that he has found evidence regarding the existence of an unheard-of Aztec city-state called Eztli. His strange and unprecedented findings were not accepted by the university, and he’s become a pariah among his peers.\n"
+"Alejandro came to Arkham to seek funding for an expedition into the rainforests of southern Mexico, where he believes that the ruins of the Eztli altepetl lie undiscovered. His description of this city-state’s origins defies modern understanding of Mesoamerican history. Despite this— or, knowing my old friend, because of this—Harlan is enthralled by Alejandro’s discoveries. Miskatonic University has agreed to fund the expedition (albeit meagerly), and Harlan wants me to go along.\n"
+"The way I see it, there’s a good chance we’re looking for something that doesn’t even exist. But if there’s even a slight chance these Eztli people existed, the historical significance would be profound. We debated the issue for some time, but in the end, we accepted Alejandro’s offer. Preparations are underway, and we should be setting off by the end of the month. With any luck, we’ll have this journal filled with all manner of interesting discoveries. If not, perhaps it’ll be a nice wedge to place beneath Harlan’s lopsided desk."
+msgstr ""
+"<right><fancy>Terça-feira, 2 de junho de 1925</fancy></right>\n"
+"Aparentemente, não haverá descanso para nós neste verão.\n"
+"Hoje encontrei Harlan Earnstone, historiador teórico da Universidade de Miskatonic e velho amigo meu. Ele disse que tem uma oferta de trabalho para mim, mas, sinceramente, não sabia o que esperar.\n"
+"Harlan me apresentou a um sócio dele: Alejandro Vela, um distinto historiador vindo do outro lado da fronteira sul. O Sr. Vela é formado em uma prestigiosa universidade na Cidade do México e passou vários anos estudando o Império Asteca. Ele alega ter encontrado evidências quanto à existência de uma cidade asteca desconhecida chamada Eztli. Seus estranhos e inéditos achados não foram aceitos pela universidade, e ele se tornou um pária entre seus pares.\n"
+"Alejandro veio para Arkham buscar financiamento para uma expedição à floresta tropical no sul do México, onde ele crê que estejam as ruínas do altépetl de Eztli, ainda não descobertas. Sua descrição das origens dessa cidade-Estado contraria a compreensão moderna da história mesoamericana. Apesar disso — ou, conhecendo meu velho amigo, por causa disso — Harlan está encantado com as descobertas de Alejandro. A Universidade de Miskatonic concordou em financiar a expedição (embora modestamente) e Harlan quer que eu vá junto.\n"
+"A meu ver, há uma boa chance de estarmos procurando algo que nem sequer existe. Mas se houver ao menos uma pequena chance de que o povo de Eztli tenha existido, o significado histórico seria profundo. Discutimos a questão por algum tempo, mas, no fim, aceitamos a oferta de Alejandro. As preparações estão em curso, e devemos partir no fim do mês. Com sorte, preencheremos este diário com todo tipo de descoberta interessante. Caso contrário, talvez ele seja um bom calço para ficar debaixo da mesa fora de prumo de Harlan."
+
+msgid "If Ursula Downs, Leo Anderson, or Monterey Jack was chosen as an investigator for this campaign: Choose one of those investigators to be the expedition leader. That investigator begins Scenarios I and II as the lead investigator."
+msgstr "Se Ursula Downs, Leo Anderson ou Monterey Jack foram escolhidos como investigadores para esta campanha: Escolha um desses investigadores para ser o líder da expedição. Esse investigador começa os Cenários I e II como investigador líder."
+
+msgid "As an outcast from academia, funding for Alejandro’s expedition is limited. Each investigator must choose supplies to bring for the expedition. In the Campaign Log, under each investigator’s “Supplies” section, record the supplies that investigator chose to bring. <i>(Note: Provisions and Medicine can be taken more than once by recording their name multiple times and spending the appropriate number of supply points each time.)</i>"
+msgstr "Como pária na academia, o financiamento da expedição de Alejandro é limitado. Cada investigador deve escolher suprimentos para levar na expedição. No Registro da Campanha, na seção “Suprimentos” de cada investigador, anote os suprimentos que ele escolheu trazer. <i>(Observação: Provisões e remédios podem ser escolhidos mais de uma vez, anotando o nome várias vezes e gastando o número adequado de pontos de suprimentos para cada vez.)</i>"
+
+msgid "Food and water for one person. A must-have for any journey."
+msgstr "Alimento e água para uma pessoa. Indispensáveis para qualquer jornada."
+
+msgid "To stave off disease, infection, or venom."
+msgstr "Para combater doenças, infecções ou veneno."
+
+msgid "Rope"
+msgstr "Corda"
+
+msgid "Several long coils of strong rope. Vital for climbing and spelunking."
+msgstr "Várias cordas fortes e longas. Vitais para escalar e explorar cavernas."
+
+msgid "Blanket"
+msgstr "Cobertor"
+
+msgid "For warmth at night."
+msgstr "Para aquecer à noite."
+
+msgid "Can be refilled at streams and rivers."
+msgstr "Pode ser reabastecido em riachos e rios."
+
+msgid "Torches"
+msgstr "Tochas"
+
+msgid "Can light up dark areas, or set sconces alight."
+msgstr "Podem iluminar áreas escuras ou acender fontes de luz."
+
+msgid "Compass"
+msgstr "Bússola"
+
+msgid "Can guide you when you are hopelessly lost."
+msgstr "Pode guiar você quando estiver totalmente perdido."
+
+msgid "Unmarked for now, but with time, you may be able to map out your surroundings."
+msgstr "Sem marcações por enquanto; mas, com o tempo, você poderá mapear seus arredores."
+
+msgid "Binoculars"
+msgstr "Binóculo"
+
+msgid "To help you see faraway places."
+msgstr "Para ajudar a ver lugares distantes."
+
+msgid "Chalk"
+msgstr "Giz"
+
+msgid "For writing on rough stone surfaces."
+msgstr "Para escrever em superfícies ásperas de pedra."
+
+msgid "Pendant"
+msgstr "Pingente"
+
+msgid "Useless, but fond memories bring comfort to travelers far from home."
+msgstr "Inútil, mas memórias preciosas consolam viajantes longe de casa."

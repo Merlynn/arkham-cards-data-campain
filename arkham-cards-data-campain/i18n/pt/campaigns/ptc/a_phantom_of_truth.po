@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "Shuffle the remainder of the encounter cards to form the encounter deck."
+msgstr "Embaralhe o restante das cartas de encontros para construir o baralho de encontros."
+
+msgid "Scenario V: A Phantom of Truth"
+msgstr "Cenário V: Um Fantasma da Verdade"
+
+msgid "Note: while the app implements the introduction for this scenario correctly, it does not fully capture the incredible design of the printed rules. Since the experience is very different, if you have not played this scenario before I <i>highly recommend</i> using the printed instructions."
+msgstr "Nota: embora o aplicativo implemente a introdução para este cenário corretamente, ele não captura totalmente o design incrível das regras impressas. Como a experiência é muito diferente, se você não jogou esse cenário antes, <i>recomendo</i> usar as instruções impressas."
+
+msgid ""
+"Several months have passed since The King in Yellow came to the Ward Theatre. You and your companions have been investigating the strange incidents that followed in its wake. What you have found makes you question the wisdom of continuing your investigation, but the truth calls out to you, and you cannot help but answer. It seems you weren’t the first to piece together the strange happenings surrounding The King in Yellow. Another group of investigators had been researching these events as well. Just a matter of days after the performance in Arkham, they were admitted to the asylum, ranting about the King’s return and the “monsters” that had attacked them. Somehow this doesn’t surprise you. Their fate makes you all the more certain you are on the right trail… And all the more certain that you should stop while you still have the chance.\n"
+"You’ve found the records those investigators kept before their incarceration, and picked up the trail where they left off. They had interviewed some of the cast and crew of The King in Yellow, and discovered several pieces of vital information. Their research also contains notes about their discoveries in Arkham’s Historical Society, and accounts from their time spent in the asylum, including interactions with a patient named “Daniel Chesterfield.” After a long night of compiling and comparing notes, you fall into a deep slumber. In your dreams, you are subjected to visions of Carcosa—its black stars, twin suns, shattered moons, and twisted spires."
+msgstr ""
+"Vários meses se passaram desde que O Rei de Amarelo veio ao Teatro Ward. Você e seus companheiros têm investigado os estranhos incidentes que ocorreram no rastro da peça. O que vocês descobriram os fez questionar se é mesmo sábio continuar a investigação, mas a verdade os chama, e vocês não conseguem evitar seguir em frente. Parece que vocês não foram os primeiros a juntar as peças sobre os estranhos acontecimentos que cercam O Rei de Amarelo. Outro grupo de investigadores também esteve pesquisando esses eventos. Alguns dias após a performance em Arkham, eles foram admitidos no sanatório, vociferando sobre o retorno do Rei e que haviam sido atacados por “monstros”. De alguma forma, isso não os surpreende. O destino deles os faz ter certeza de que estão na pista certa… E fica cada vez mais claro que vocês deveriam parar enquanto ainda têm chance.\n"
+"Vocês descobriram os registros que esses investigadores mantinham antes de serem encarcerados, e seguiram do ponto em que eles pararam. Eles entrevistaram alguns membros da equipe e do elenco de O Rei de Amarelo, descobrindo várias informações importantes. A pesquisa deles também continha notas sobre suas descobertas na Sociedade Histórica de Arkham, além de anotações sobre o tempo que passaram no asilo, incluindo interações com um paciente chamado “Daniel Chesterfield.” Após passarem bastante tempo compilando e comparando notas, vocês acabam caindo no sono. Em seus sonhos, vocês têm visões de Carcosa — suas estrelas sombrias, sóis gêmeos, luas partidas e pináculos distorcidos."
+
+msgid "It has been several weeks since the events in the asylum, and you are still no closer to the truth about The King in Yellow and Carcosa. You have scoured the city for signs of the others Daniel had mentioned—the ones who are “opening the path to Carcosa”—but found nothing. Either the trail has gone cold, or they’re no longer in Arkham. Perhaps Daniel truly was insane, and you are only following him deeper down the rabbit hole. Every night, you toss and turn as you are subjected to vivid dreams of Carcosa—its black stars, twin suns, shattered moons, and twisted spires."
+msgstr "Faz algumas semanas desde os eventos no asilo, e vocês não tiveram progresso em descobrir a verdade sobre O Rei de Amarelo e Carcosa. Vocês vasculharam a cidade em busca de indícios das outras pessoas que Daniel mencionou — aqueles que estariam “abrindo o caminho para Carcosa” — mas não encontraram nada. Ou os rastros esfriaram, ou já não estão em Arkham. Talvez Daniel realmente fosse louco, e vocês só o estão seguindo mais para dentro da toca do coelho. Toda noite, vocês se viram de um lado para o outro em suas camas, tendo sonhos vívidos com Carcosa — suas estrelas sombrias, sóis gêmeos, luas partidas e pináculos distorcidos."
+
+msgid "Smoke and embers float upwards into the starless night sky. The screams of burning creatures fill you with a horrid sense of accomplishment. They almost sound human, you consider. But you know that isn’t true."
+msgstr "Fumaça e brasas flutuam em direção a um céu noturno sem estrelas. Os gritos de criaturas sendo queimadas traz a vocês uma sensação horrenda de missão cumprida. Elas quase soam humanas, vocês ponderam. Mas vocês sabem que isso não é verdade."
+
+msgid "You peer in the mirror, and the Stranger peers back at you. His gaze drills into your mind. The mirror shatters."
+msgstr "Vocês olham para o espelho e o Estranho os encara de volta. O olhar dele perfura suas mentes. O espelho se quebra."
+
+msgid "You fall through the empty abyss of Hali. Creatures of unknown and impossible origin lurk just beyond the darkness of your sight. Hastur looms above you, magnificent and yet bound in his prison of madness, manipulating your torturous descent with a sole outstretched arm."
+msgstr "Vocês caem através dos abismos vazios do Hali. Criaturas de origem desconhecida e impossível espreitam logo além das trevas de sua visão. Hastur assoma, magnífico e, ainda assim, preso ao seu cárcere de loucura, manipulando a descida tortuosa de vocês com um único braço estendido."
+
+msgid "Each investigator has earned the Lost Soul weakness <i>(The Path to Carcosa #227)</i> (does not count toward deck size). Shuffle one copy of this weakness into each investigator’s deck."
+msgstr "Todos os investigadores ganham a fraqueza Alma Perdida <i>(O Caminho para Carcosa #227)</i> (não conta no limite de tamanho de baralho.) Embaralhe uma cópia dessa fraqueza no baralho de cada investigador."
+
+msgid "You peer up at the stained glass, curious. What is the shape of the shadow along the window? What is the meaning behind this strange design?"
+msgstr "Vocês observam um vitral, curiosos. O que é aquela sombra ao longo da janela? Qual o significado desse estranho padrão?"
+
+msgid "Mark one <b>Doubt</b> in your Campaign Log."
+msgstr "Marque uma <b>Dúvida</b> no Registro da Campanha."
+
+msgid "Constance takes your hand and pulls you onto the polished dance floor. “Come now, don’t be shy. Tonight is a night for dancing! For celebration!”"
+msgstr "Constance toma a sua mão e o puxa para uma pista de dança polida. “Venha, sem timidez. Hoje é uma noite boa para dançar! Para celebrar!”"
+
+msgid "You chase the Stranger through dark, chilly passageways composed of hundreds of thousands of skeletal bodies. Skulls watch as you run, their mouths rattling a mocking taunt as you pass. The Stranger reaches a solid wall of bone, and is grabbed by bony hands and pulled into the wall. Their mocking laughs reach an awful crescendo."
+msgstr "Vocês perseguem o Estranho por um conjunto íngreme de degraus de pedra quebrada, sendo assolados por um aguaceiro enquanto correm. Luzes piscam à distância. Um vórtice de nuvens escuras revoltas paira sobre vocês, ameaçando engolir o mundo inteiro. O homem mascarado corre por um conjunto de portas no topo da escadaria, e vocês o seguem logo atrás. O ribombar de um trovão é abafado quando as portas se fecham atrás de vocês. Olhando ao redor, vocês veem uma representação familiar sobre o vitral. “Belo, não é mesmo?” diz o Estranho calmamente."
+
+msgid "You find yourself inside the Arkham Police Department, desperately trying to explain to the desk sergeant what happened in the Ward Theatre. He scoffs and refuses to believe you. “We know what you’re really up to,” he says, and claps a pair of handcuffs over your wrists. “You’re under arrest for larceny. Boys, take ‘em away.” Several other cops flank you and prevent any escape. Your protests go unheard as you are firmly escorted down a flight of concrete stairs and hurled into a cold jail cell. “Maybe some time in lockup will change your story,” the desk sergeant shouts. He slams the door behind him, leaving you with your spiraling thoughts. How did they find out? How could they possibly know?"
+msgstr "Vocês se descobrem dentro do Departamento de Polícia de Arkham, desesperadamente tentando explicar ao sargento recepcionista o que aconteceu no Teatro Ward. Ele zomba e se recusa a acreditar em vocês. “Sabemos o que vocês estão realmente aprontando,” diz ele, enquanto começa a algemá-los. “Vocês estão presos por furto. Podem levá-los, rapazes.” Vários policiais os cercam e impedem sua fuga. Seus protestos alcançam ouvidos moucos enquanto são escoltados por um conjunto de degraus de concreto e jogados dentro de uma cela fria. “Talvez ficar algum tempo de molho ajude a refrescar a memória de vocês,” grita o sargento. Ele bate a porta atrás si, deixando vocês com seus próprios pensamentos. Como eles descobriram? Como poderiam saber?"
+
+msgid "Choose an investigator. The chosen investigator has earned the Paranoia weakness (Core 97) (does not count toward deck size). Shuffle 1 copy of this weakness into that investigator’s deck, if able."
+msgstr "Escolha um investigador. O investigador escolhido ganha a fraqueza Paranoia <i>(Jogo base #97)</i> (não conta no limite de tamanho de baralho dele). Embaralhe 1 cópia dessa fraqueza no baralho do investigador, se possível."
+
+msgid "You chase the Stranger up a steep staircase of broken stone, a torrent of rain crashing upon your back as you run. Lightning flashes in the distance. A vortex of swirling black clouds looms above you, threatening to swallow the world whole. The masked man dashes through a wide set of doors atop the stairs, and you follow close behind. The sound of crashing thunder is muffled as the doors close behind you. Looking up, you see a familiar depiction in stained glass. “Beautiful, is it not?” the Stranger says quietly."
+msgstr "Vocês perseguem o Estranho por um conjunto íngreme de degraus de pedra quebrada, sendo assolados por um aguaceiro enquanto correm. Luzes piscam à distância. Um vórtice de nuvens escuras revoltas paira sobre vocês, ameaçando engolir o mundo inteiro. O homem mascarado corre por um conjunto de portas no topo da escadaria, e vocês o seguem logo atrás. O ribombar de um trovão é abafado quando as portas se fecham atrás de vocês. Olhando ao redor, vocês veem uma representação familiar sobre o vitral. “Belo, não é mesmo?” diz o Estranho calmamente."
+
+msgid "<i>“How could any of this be beautiful to you?”</i>"
+msgstr "<i>“Como algo aqui poderia ser belo para você?”</i>"
+
+msgid "<i>“What exactly am I looking at?”</i>"
+msgstr "<i>“Para o que exatamente estou olhando?”</i>"
+
+msgid "You avoid looking at the stained glass. If this vile man considers it to be beautiful, it is probably some trap meant to ensnare your mind. You clench your fist until your knuckles are white and step forward to confront the Stranger."
+msgstr "Vocês evitam olhar para o vitral. Se aquele homem vil o considera belo, provavelmente é uma armadilha destinada a aprisionar as suas mentes. Vocês apertam os punhos até que os nós dos dedos estejam brancos e dão um passo à frente para confrontar o Estranho."
+
+msgid "Mark one <b>Conviction</b> in your Campaign Log."
+msgstr "Marque uma <b>Convicção</b> no Registro da Campanha."
+
+msgid "“Ah, if it isn’t our esteemed guest,” the man with the mustache and the silver-handled cane says. He grabs a bottle of wine from the nearby countertop and pours you a glass. “I hear you have taken quite the interest in our little production,” he says with a smile. “Tell me: how are you enjoying Act 2, so far?”"
+msgstr "“Ah, se não são nossos estimados convidados,” diz o homem de bigode e bengala com punho de prata. Ele pega uma garrafa de vinho em uma bancada próxima e serve taças a vocês. “Fiquei sabendo que vocês se interessaram bastante por nossa pequena produção,” continua o homem com um sorriso. “Agora, me digam: o que estão achando do Ato 2 até agora?”"
+
+msgid "Daniel’s voice calls out to you. “They are opening the path to Carcosa.”"
+msgstr "A voz de Daniel os chama. “Eles estão abrindo o caminho para Carcosa”."
+
+msgid "The lights of the theatre dim and a spotlight shines on the stage. “Welcome, ladies and gentleman!” the creature exclaims. Its many tentacles reach across the stage, up into the rafters, and throughout the aisles. It tears the curtains down, and tattered red cloth falls over its bulbous form."
+msgstr "As luzes do teatro estão fracas e um holofote ilumina o centro do palco. “Bem-vindos, senhoras e senhores!” exclama a criatura. Seus muitos tentáculos se estendem por todo o palco, alcançam as vigas do teto acima e serpenteiam pelas fileiras dos assentos. A coisa rasga as cortinas, e o pano vermelho esfarrapado cai sobre sua forma bulbosa."
+
+msgid "You awaken from your fitful dream, sweating and gagging. This cannot go on any longer. You have only one option if you are to continue your investigation. You must find Nigel Engram, director of The King in Yellow, and architect of this madness. Only he will have the answers you seek. You pack your bags and plan your trip to Paris, the City of Lights."
+msgstr "Vocês acordam de sonhos inquietos, suando e engasgando. Isto não pode durar muito mais tempo. A única opção é continuar com a investigação. Vocês precisam encontrar Nigel Engram, diretor de O Rei de Amarelo e arquiteto de toda essa loucura. Somente ele terá as respostas que vocês buscam. Vocês fazem suas malas e organizam uma viagem a Paris, a Cidade das Luzes."
+
+msgid "Check Campaign Log. <i>If Jordan Perry is listed under VIPs Interviewed</i>:"
+msgstr "Verifique o Registro da Campanha. <i>Se Jordan Perry estiver listado em VIPs Entrevistados</i>:"
+
+msgid "According to Mr. Jordan Perry, who had financed several performances of The King in Yellow across the world, Nigel Engram was an eccentric and impassioned man, almost to the point of mania. Rumor was, he hadn’t directed any other works since discovering The King in Yellow. Jordan had first met with Mr. Engram at a café in Montparnasse, “L’agneau Perdu.” You travel there first, hoping to find Mr. Engram…"
+msgstr "De acordo com o Sr. Jordan Perry, que financiou várias exibições de O Rei de Amarelo por todo o mundo, Nigel Engram é um homem excêntrico e apaixonado, quase ao ponto da loucura. Segundo os boatos, ele não dirigiu nenhum outro trabalho desde que descobriu O Rei de Amarelo. Jordan conheceu o Sr. Engram em um café em Montparnasse, o “L’agneau Perdu.” Vocês viajam para lá primeiro, torcendo para encontrar o Sr. Engram…"
+
+msgid "Each investigator begins the game with 3 additional resources. Instead of the normal starting location, each investigator begins play at Montparnasse."
+msgstr "Cada investigador começa o jogo com 3 recursos adicionais. Em vez do local inicial indicado, os investigadores começam o jogo em Montparnasse."
+
+msgid "When gathering <i>The Midnight Masks</i> encounter set, only gather the 5 treachery cards (2x False Lead and 3x Hunting Shadow). Do not gather the location, act, agenda, or scenario reference cards from that set"
+msgstr "Ao reunir as cartas do conjunto de encontros <i>As Máscaras da Meia Noite</i>, reúna apenas as 5 cartas de traição (2x Pista Falsa e 3x Sombra Caçadora). Não pegue nenhum local, ato, agenda ou carta de referência do cenário desse conjunto."
+
+msgid "Because you have more (or equal) <b>Doubt</b> than <b>Conviction</b>:"
+msgstr "Porque vocês tem mais (ou a mesma quantidade de) <b>Dúvidas</b> do que <b>Convicções</b>:"
+
+msgid "Because you have more <b>Conviction</b> than <b>Doubt</b>:"
+msgstr "Porque vocês tem mais <b>Convicções</b> do que <b>Dúvidas</b>:"
+
+msgid "Search the gathered encounter sets for both copies of Twin Suns and all 3 copies of Hunting Shadow, and remove them from the game."
+msgstr "Procure nos baralhos de encontros reunidos ambas as cópias de Sóis Gêmeos e todas as 3 cópias de Sombra Caçadora, então remova essas cartas do jogo."
+
+msgid "Search the gathered encounter sets for both copies of Black Stars Rise and both copies of False Lead, and remove them from the game."
+msgstr "Procure nos baralhos de encontros reunidos ambas as cópias de Ascensão das Estrelas Sombrias e ambas as cópias de Pista Falsa, então remova essas cartas do jogo."
+
+msgid "During this scenario, use Act 1—The Parisian Conspiracy (v. I). The other version of Act 1 is removed from the game."
+msgstr "Durante este cenário, use o Ato 1 — A Conspiração Parisiense (v. I). A outra versão do Ato 1 é removida do jogo."
+
+msgid "During this scenario, use Act 1—The Parisian Conspiracy (v. II). The other version of Act 1 is removed from the game."
+msgstr "Durante este cenário, use o Ato 1 — A Conspiração Parisiense (v. II). A outra versão do Ato 1 é removida do jogo."
+
+msgid "Choose one of the two Montmartre locations, one of the two Opéra Garnier locations, and one of the two Le Marais locations, at random. Put the chosen locations into play. Remove the other versions of those locations from the game."
+msgstr "Escolha aleatoriamente um dos dois locais Montmartre, um dos dois locais Opéra Garnier e um dos dois locais Le Marais. Coloque os locais escolhidos em jogo. Remova do jogo as outras versões desses locais."
+
+msgid "Put the remaining locations (Montparnasse, Gare d’Orsay, Grand Guignol, Canal Saint‐Martin, Père Lachaise Cemetery, Notre‐Dame, and Gardens of Luxembourg) into play. Each investigator begins play at Gare d’Orsay."
+msgstr "Coloque os locais restantes em jogo (Montparnasse, Gare d’Orsay, Grand Guignol, Canal Saint-Martin, Cemitério Père Lachaise, Notre-Dame, e Jardins de Luxemburgo). Os investigadores começam o jogo em Gare d’Orsay."
+
+msgid "Set the double‐sided The Organist enemy aside, out of play."
+msgstr "Separe o inimigo dupla-face O Organista de lado, fora de jogo."
+
+msgid "If there are any remaining copies of the Lost Soul weakness, set them aside, out of play."
+msgstr "Se houver cópias remanescentes da fraqueza Alma Perdida, separe essas cartas, fora de jogo."
+
+msgid "Because <i>you took the onyx clasp</i> and the original bearer of the Clasp of Black Onyx weakness is not playing this scenario, another investigator must become the bearer."
+msgstr "Porque <i>vocês pegaram o broche de ônix</i> e o portador original da fraqueza Broche de Ônix Negra não está jogando neste cenário, outro investigador deve se tornar o portador."
+
+msgid "Because the original bearer of The Man in the Pallid Mask weakness is not playing this scenario, another investigator must become the bearer."
+msgstr "Como o portador original da fraqueza O Homem da Máscara Pálida não está jogando neste cenário, outro investigador deve se tornar o portador."
+
+msgid "Defeated the Man in the Pallid Mask"
+msgstr "Derrotou o Homem da Máscara Pálida"
+
+msgid "In your Campaign Log, under “Chasing the Stranger,” place one tally mark."
+msgstr "No Registro da Campanha, na seção “Perseguindo o Estranho,” coloque uma marca."
+
+msgid "you did not escape the gaze of the phantom."
+msgstr "vocês não escaparam do olhar do fantasma."
+
+msgid "you found Nigel's home."
+msgstr "vocês encontraram a casa de Nigel."
+
+msgid "Record in your Campaign Log that <i>you found Nigel Engram</i>. Each investigator suffers 1 mental trauma from the shock of their discovery. Each investigator earns 2 additional experience as they gain insight into the machinations of the Tattered King."
+msgstr "Anote no Registro da Campanha que <i>vocês encontraram Nigel Engram</i>. Cada investigador sofre 1 trauma mental devido ao choque da descoberta. Cada investigador ganha 2 de experiência adicional por descobrir mais sobre as maquinações do Rei Esfarrapado."
+
+msgid "you found Nigel Engram."
+msgstr "vocês encontraram Nigel Engram."
+
+msgid "you were unable to find Nigel."
+msgstr "vocês não conseguiram encontrar Nigel."
+
+msgid "Is Jordan Perry <i>(An Imposing Presence)</i> in the victory display?"
+msgstr "Jordan Perry <i>(Uma Presença Imponente)</i> está no painel de vitórias?"
+
+msgid "In your Campaign Log, under \"VIPS Slain\", record <i>Jordan Perry</i>."
+msgstr "Em seu Registro da Campanha, na seção \"VIPs Mortos”, registre o nome de <i>Jordan Perry</i>."
+
+msgid "Remove all [cultist], [tablet], and [elder_thing] tokens from the chaos bag. Then, add 2 [tablet] tokens to the chaos bag."
+msgstr "Remova todas as fichas [cultist], [tablet] e [elder_thing] da bolsa de caos. Então, adicione 2 fichas [tablet] à bolsa de caos."
+
+msgid "Remove all [cultist], [tablet], and [elder_thing] tokens from the chaos bag. Then, add 2 [cultist] tokens to the chaos bag."
+msgstr "Remova todas as fichas [cultist], [tablet] e [elder_thing] da bolsa de caos. Então, adicione 2 fichas [cultist] à bolsa de caos."
+
+msgid "Remove all [cultist], [tablet], and [elder_thing] tokens from the chaos bag. Then, add 2 [elder_thing] tokens to the chaos bag."
+msgstr "Remova todas as fichas [cultist], [tablet] e [elder_thing] da bolsa de caos. Então, adicione 2 fichas [elder_thing] à bolsa de caos."
+
+msgid "You lose track of yourself within the city as you flee for your life. Your feet move of their own accord. The beating of sinewy wings and screeching of creatures above you spurs you onward. Soon you find yourself running down a narrow avenue, passing a set of heavy iron gates. You are in a dead end—a court with tall, old houses on either side. You turn back toward the entrance to find the shapes of many winged creatures barring your path. They are perched on the gates and on the balconies above, awaiting your doom. Walking with cold, sinister confidence, the man in black opens the iron gate and enters the court. His face gleams in the darkness. His eyes pierce your soul. For a moment, you recognize him for what he truly is. It is the last you remember of that night."
+msgstr "Vocês se perdem na cidade enquanto fogem por suas vidas. Seus pés se movem sozinhos. O bater de asas membranosas e o grito das criaturas acima os impulsiona. Logo vocês se descobrem correndo por uma avenida estreita, ao lado de um conjunto de pesados portões de ferro. Vocês estão em um beco sem saída — uma pracinha com casas velhas e altas em ambos os lados. Vocês se viram para a entrada e encontram várias das criaturas aladas barrando o caminho. Elas estão empoleiradas em portões e nas sacadas acima, aguardando a sua perdição. Andando com uma confiança fria e sinistra, o homem de preto abre o portão de ferro e entra na praça. O rosto dele reluz nas trevas. Os olhos perfuram suas almas. Por um instante, vocês o reconhecem pelo que ele realmente é. Essa é a última coisa que se lembram dessa noite."
+
+msgid ""
+"You can only assume this house belongs to Nigel Engram, the director of The King in Yellow. At last, you have finally found your quarry…and yet, it is little relief to your straining sanity. You feel like a dog being led by a leash, your fate decided by a cruel master who has long kept you in the dark. You push these gloomy thoughts to the back of your mind and knock on Mr. Engram’s door. There is no response but a flock of magpies that scatter from the rooftop at the sudden noise. You try the doorknob, hoping you won’t have to resort to more forceful measures. To your surprise, you find the door unlocked.\n"
+"Inside, Nigel’s home is a mess of notes, old books, and strange diagrams. Covering the coffee table in his living room is an old, faded map, bearing many fold creases and tattered edges. It looks to be an incomplete map of the catacombs beneath Paris, or at least a section of it. The food in his pantry is old and rotten. There is no sign of anyone having lived here for years, and yet the ink upon the living room walls is wet and fresh. Over and over, across nearly every inch of the wallpaper, it reads:\n"
+"<center><fancy>He is already here.</fancy></center>"
+msgstr ""
+"Vocês só podem assumir que essa casa pertence a Nigel Engram, o diretor de O Rei de Amarelo. Por fim, vocês encontraram sua presa… e ainda assim, isso faz pouco para aplacar a sua sanidade. Vocês se sentem como cães guiados pela coleira, com o destino decidido por um mestre cruel que os manteve por muito tempo nas trevas. Vocês empurram esses pensamentos sombrios para o fundo de suas mentes e batem na porta do Sr. Engram. Não há resposta, mas um bando de gralhas se espalha a partir do telhado, reagindo ao barulho súbito. Vocês tentam a maçaneta, torcendo para não precisar tomar medidas mais violentas. Para sua surpresa, a porta está destrancada.\n"
+"Dentro, a casa de Nigel é uma bagunça de anotações, livros velhos e diagramas estranhos. Cobrindo a mesa de café da sala de estar há um mapa velho e desbotado, apresentando várias marcas de dobra e bordas esfarrapadas. Parece um mapa incompleto das catacumbas abaixo de Paris, ou pelo menos de uma seção dela. A comida na despensa está velha e apodrecida. Não há sinal algum de que alguém tenha vivido na casa pelos últimos anos, e ainda assim a tinta nas paredes da sala de estar estão úmidas e frescas. Repetidas vezes, através de cada centímetro do papel de parede, uma mensagem diz:\n"
+"<center><fancy>Ele já está aqui.</fancy></center>"
+
+msgid ""
+"You can only assume this house belongs to Nigel Engram, the director of The King in Yellow. At last, you have finally found your quarry…and yet, it is little relief to your straining sanity. You feel like a dog being led by a leash, your fate decided by a cruel master who has long kept you in the dark. You push these gloomy thoughts to the back of your mind and knock on Mr. Engram’s door. A flock of magpies scatters from the rooftop at the sudden noise. Then, to your surprise, the door opens.\n"
+"Across the threshold of the doorway stands a tall man with a thick, brown mustache. A familiar silver-handled cane leans against the wall next to his coat hanger. “So it’s you,” he says. “Come in. I have expected you for some time now.” He turns away and walks toward his kitchen. You can hear a teapot whistling, as though he’d been preparing for your arrival.\n"
+"You enter his home, unsure of what to do next. This gentle, unassuming man is not quite what you had expected. Nigel’s home is a mess of notes, old books, and strange diagrams. Covering the coffee table in his living room is an old, faded map, bearing many fold creases and tattered edges. It looks to be an incomplete map of the catacombs beneath Paris, or at least a section of it. Mr. Engram returns moments later with hot tea and a plate of cheese and crackers. “I assume you are here to find the path to Carcosa?” he asks, wearing an excited grin. You shake your head in response, but he doesn’t seem to notice. He paces back and forth around the room as he speaks rapidly. “He told me that you would be arriving soon. That I should… Prepare.” Nigel turns toward you as he reaches the wooden door across from you, his eyes flashing. “Don’t worry. All is ready. The way is paved.” He opens the door to his study and steps inside, leaving you behind to interpret his cryptic comments. You wait a few minutes for him to return, but when he does not, you begin to worry. Then you notice that mold has already begun to grow over the cheese he’d brought you. “Mr. Engram?” you call out, and you hesitantly knock on the door to his study. There is no response. When you enter the room, you find him hanging from the ceiling fan, his body rotting from weeks of decomposition."
+msgstr ""
+"Vocês só podem assumir que essa casa pertence a Nigel Engram, o diretor de O Rei de Amarelo. Por fim, vocês encontraram sua presa… e ainda assim, isso faz pouco para aplacar a sua sanidade. Vocês se sentem como cães guiados pela coleira, com o destino decidido por um mestre cruel que os manteve por muito tempo nas trevas. Vocês empurram esses pensamentos sombrios para o fundo de suas mentes e batem na porta do Sr. Engram. Um bando de gralhas se espalha a partir do telhado, reagindo ao barulho súbito. Então, para sua surpresa, a porta se abre.\n"
+"Além dela, há um homem alto, com um basto bigode castanho. Uma familiar bengala com punho de prata está encostada na parede próxima do cabideiro. “Então, são vocês,” diz ele. “Entrem. Eu já os esperava há algum tempo.” Ele se vira e anda em direção à cozinha. Vocês ouvem um bule de chá apitando, como se o homem estivesse preparado para a chegada de vocês.\n"
+"Vocês entram na casa, sem saber o que fazer em seguida. Esse homem gentil e discreto não é nada do que vocês estavam esperando. A casa de Nigel é uma bagunça de anotações, livros velhos e diagramas estranhos. Cobrindo a mesa de café da sala de estar há um mapa velho e desbotado, apresentando várias marcas de dobra e bordas esfarrapadas. Parece um mapa incompleto das catacumbas abaixo de Paris, ou pelo menos de uma seção dela. O Sr. Engram volta um pouco depois com chá quente e uma bandeja de queijo e biscoitos. “Suponho que estejam aqui para encontrar o caminho para Carcosa?” pergunta ele, com um sorriso empolgado. Vocês meneiam a cabeça em resposta, mas ele não parece notar. Ele anda de um lado para o outro, falando bem rápido. “Ele me disse que vocês chegariam em breve. Que eu deveria… me preparar.” Nigel se vira para vocês enquanto anda até a porta de madeira adiante, com os olhos brilhando. “Não se preocupem. Está tudo pronto. O caminho foi traçado.” Ele abre a porta para o escritório e entra no recinto, deixando vocês para trás para interpretar seus comentários crípticos. Vocês aguardam alguns minutos até o retorno dele, mas como ele não volta, vocês começam a se preocupar. É quando vocês percebem que o mofo já começou a crescer sobre o queijo que ele trouxe para a mesa. “Sr. Engram?” vocês chamam, e então, hesitantes, vão bater à porta do escritório. Não há resposta. Quando vocês entram no lugar, encontram-no pendurado no ventilador do teto. Seu corpo está apodrecido por semanas de decomposição."
+
+msgid "As the sun rises once more over the skyline of Paris, you lose sight of the mysterious figure. Frustrated at your failure, you return to your hotel to sleep and recover from the horrors of the past few nights. Your fitful dreams return— dreams of Carcosa, of the King in Tatters, and of the shadowy figure whom you had pursued through the streets of Paris. When you awaken, you are no longer in your hotel room."
+msgstr "Conforme o sol se ergue mais uma vez sobre o horizonte de Paris, vocês perdem de vista a figura misteriosa. Frustrados com o fracasso, vocês retornam ao hotel para dormir e se recuperarem dos horrores das noites passadas. Os sonhos intermitentes retornam — sonhos sobre Carcosa, o Rei de Farrapos, a figura sombria que vocês perseguiram através das ruas de Paris. Quando acordam, vocês já não estão no quarto do hotel."
+
+msgid "Put the remaining locations (Montparnasse, Gare d’Orsay, Grand Guignol, Canal Saint‐Martin, Père Lachaise Cemetery, Notre‐Dame, and Gardens of Luxembourg) into play. Each investigator begins play at Montparnasse."
+msgstr "Coloque os locais restantes em jogo (Montparnasse, Gare d’Orsay, Grand Guignol, Canal Saint-Martin, Cemitério Père Lachaise, Notre-Dame, e Jardins de Luxemburgo). Os investigadores começam o jogo em Montparnasse."

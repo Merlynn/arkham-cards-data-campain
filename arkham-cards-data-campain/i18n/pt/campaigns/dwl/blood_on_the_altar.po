@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "Blood on the Altar"
+msgstr "Sangue no Altar"
+
+msgid "Scenario IV: Blood on the Altar"
+msgstr "Cenário IV: Sangue no Altar"
+
+msgid ""
+"When you finally reach Dunwich, you are greeted by Zebulon Whateley and Earl Sawyer, another man from the village who had met with Dr. Armitage during the incident several months ago. “Things ain’t lookin’ too good here,” Earl tells you. “Some folk up and went missin’ a few nights ago. ‘Dem whippoorwills won’ shut up. Dunno what yer doin’ here, but last time you Arkham folk came ‘round it was bad news. Very bad news.” His eyes blink rapidly, and he coughs and looks away.\n"
+"“Look, why don’t you rest fer the night an’ look fer whatever it is yer looking fer t’morra,” Zebulon chimes in, putting a wrinkled hand on your shoulder. You begin to protest, but your aching muscles and weary mind won’t allow you to refuse. The elderly man offers to take you in for the night, and drives you to his home at the outskirts of Dunwich village. The town is disheveled and eerie, and you find yourself wishing you hadn’t come here at all. You fall asleep on the ride over and scarcely remember anything else from that night.\n"
+"When you awaken, you find that Zebulon’s house is abandoned, and there is no sign of the elderly man, or of Mr. Sawyer. Fearing the worst, you head into the village of Dunwich to investigate, hoping to find answers."
+msgstr ""
+"Quando vocês finalmente chegam a Dunwich, são recebidos por Zebulon Whateley e Earl Sawyer, outro homem do vilarejo que conheceu o Dr. Armitage durante os incidentes de alguns meses atrás. “As coisas num parecem nada boas por aqui,” diz Earl. “Umas pessoas sumiro umas noite atrás. Aquelas droga de curiangos, os pássaros, não fecham a matraca. Sei lá o que tão fazeno aqui, mas da última vez que veio um pessoal de Arkham pra cá, num tinha nada de bom aconteceno. Nada de bom mesmo.” Os olhos dele piscam rapidamente, ele tosse e desvia o olhar:\n"
+"“Óia, purque vocês não descansa essa noite e procuram sei lá do que tão atrás de manhãzinha,” cantarola Zebulon, colocando uma mão enrugada em seu ombro. Vocês começam a protestar, mas os músculos doloridos e a mente cansada não permitem que recusem. O homem mais velho se oferece para hospedá-los durante a noite e dirige até a casa dele nos arredores de Dunwich. A cidade é desordenada e sinistra, e vocês se pegam desejando não ter ido para lá. Vocês dormem durante a viagem e mal se lembram de nada dessa noite.\n"
+"Quando acordam, descobrem que que a casa de Zebulon está abandonada e não há sinal do idoso ou do Sr. Sawyer. Temendo o pior, vocês rumam para o vilarejo de Dunwich para investigar, esperando encontrar pistas."
+
+msgid "Setup"
+msgstr "Preparação"
+
+msgid "Put Village Commons into play. Each investigator begins play in the Village Commons."
+msgstr "Coloque Ruas do Vilarejo em jogo. Os investigadores começam o jogo nas Ruas do Vilarejo."
+
+msgid "Remove one of the two copies of each other location from the game at random. Then, choose one of the six remaining locations at random, and remove it from the game as well. Put the remaining five locations into play."
+msgstr "Remova do jogo aleatoriamente uma das duas cópias de cada outro local. Então, escolha aleatoriamente um dos seis locais restantes e o remova do jogo também. Coloque os locais remanescentes em jogo."
+
+msgid "Location Placement"
+msgstr "Posicionamento de Locais"
+
+msgid "<i><b>Note</b>: One of the below locations will <b>not</b> be in play.</i>"
+msgstr "<i><b>Nota</b>: um dos locais abaixo <b>não</b> estará em jogo.</i>"
+
+msgid "Check Campaign Log. Gather the cards for each character who “was kidnapped” according to your Campaign Log. Form a facedown pile of “potential sacrifices,” consisting of each of those cards, along with the Zebulon Whateley card and the Earl Sawyer card."
+msgstr "Verifique o Registro da Campanha. Reúna as cartas dos personagens que “foram sequestrados”, de acordo com o Registro da Campanha. Forme uma pilha virada para baixo de “sacrifícios em potencial,” consistindo de cada uma dessas cartas, junto à carta de Zebulon Whateley e a de Earl Sawyer."
+
+msgid "Set the following cards aside, out of play: Silas Bishop, The Hidden Chamber, Key to the Chamber, and Powder of Ibn-Ghazi."
+msgstr "Separe as seguintes cartas, fora de jogo: Silas Bishop, A Câmara Secreta, Chave para a Câmara, e Pó de Ibn-Ghazi."
+
+msgid "Add 1 doom to agenda 1a."
+msgstr "Adicione 1 perdição à agenda 1a."
+
+msgid "Shuffle the remainder of the encounter cards (from the previously gathered encounter sets) to form the encounter deck."
+msgstr "Embaralhe o restante das cartas de encontros para construir o baralho de encontros."
+
+msgid "Seeking vengeance, the gang from the Clover Club has followed you to Dunwich. Gather all cards from the <i>Naomi’s Crew</i> encounter set and shuffle them into the encounter deck."
+msgstr "Buscando vingança, a gangue do Clover Club seguiu vocês até Dunwich. Reúna todas as cartas do conjunto de encontros <i>Bando de Naomi</i> e embaralhe-as no baralho de encontros."
+
+msgid "Take the previously set-aside The Hidden Chamber and Key to the Chamber cards, along with the top 3 cards of the encounter deck. Shuffle them and randomly deal 1 card facedown underneath each location in play except Village Commons."
+msgstr "Pegue A Câmara Secreta e a Chave para a Câmara, que foram previamente separadas, junto com as 3 cartas do topo do baralho de encontros. Embaralhe-as e distribua aleatoriamente uma carta virada para baixo embaixo de cada local em jogo, exceto Ruas do Vilarejo."
+
+msgid "The Hidden Chamber"
+msgstr "A Câmara Secreta"
+
+msgid ""
+"This scenario includes a single-sided location (The Hidden Chamber) which has been dealt facedown underneath a random location. The Hidden Chamber only has a revealed side, and has a <b>Revelation</b> effect that puts it into play when drawn.\n"
+"When put into play, a single-sided location is put into play with its revealed side faceup, because it has no unrevealed side. Otherwise, it functions as a normal location in every other way."
+msgstr ""
+"Este cenário inclui um local com apenas um lado (A Câmara Secreta) que foi distribuído virado para baixo embaixo de um local aleatório. A Câmara Secreta tem apenas um lado revelado, e conta com um efeito <b>Revelação</b> que a coloca em jogo quando comprada.\n"
+"Quando são colocados em jogo, locais com apenas um lado são colocados em jogo com o lado revelado virado para cima, pois não têm lado não revelado. Nos outros aspectos, funcionam como um local normal."
+
+msgid "the ritual was completed."
+msgstr "o ritual foi completado."
+
+msgid "the investigators put Silas Bishop out of his misery."
+msgstr "os investigadores acabaram com o sofrimento de Silas Bishop."
+
+msgid "the investigators restored Silas Bishop."
+msgstr "os investigadores restauraram Silas Bishop."
+
+msgid "the investigators banished Silas Bishop."
+msgstr "os investigadores baniram Silas Bishop."
+
+msgid "If there were any potential sacrifices remaining at the end of the game, place them underneath the agenda deck."
+msgstr "Se houver algum sacrifício em potencial restante no fim do jogo, coloque-o no fundo do baralho de agendas."
+
+msgid ""
+"In your Campaign Log, under “Sacrificed to Yog‐Sothoth,” record the names of each unique card that is underneath the agenda deck.\n"
+"Each of these cards are removed from all players’ decks and can no longer be included in any players’ decks for the remainder of the campaign."
+msgstr ""
+"No Registro da Campanha, em “Sacrificado a Yog-Sothoth”, anote os nomes de cada carta única que estiver no fundo do baralho de agendas.\n"
+"Cada uma dessas cartas é removida dos baralhos de todos os jogadores e não podem mais ser incluídas nos baralhos dos jogadores pelo restante da campanha."
+
+msgid "Sacrificed"
+msgstr "Sacrificado"
+
+msgid "#name#"
+msgstr "#name#"
+
+msgid "the Necronomicon was stolen."
+msgstr "o Necronomicon foi roubado."
+
+msgid "The Necronomicon <i>(Olaus Wormius Translation)</i> must be removed from that investigator’s deck."
+msgstr "O Necronomicon <i>(Tradução de Olaus Wormius)</i> deve ser removido do baralho desse investigador."
+
+msgid "Each investigator earns experience equal to the Victory X value of each card in the victory display."
+msgstr "Cada investigador ganha experiência igual ao valor de Vitória de cada carta que está no painel de vitórias."
+
+msgid "Victory display:"
+msgstr "Painel de Vitória:"
+
+msgid "Each investigator earns 2 bonus experience as they gain insight into the hidden world of the Mythos."
+msgstr "Cada investigador ganha 2 de experiência bônus, pois tomou conhecimento do mundo oculto do Mythos."
+
+msgid "Dr. Henry Armitage survived The Dunwich Legacy."
+msgstr "Dr. Henry Armitage sobreviveu a O Legado de Dunwich."
+
+msgid "No resolution(each investigator resigned or was defeated)"
+msgstr "Se nenhuma resolução foi alcançada (todos os investigadores renunciaram ou foram derrotados)"
+
+msgid "The cries of the whippoorwills fade into the distance, and the town of Dunwich is filled with an eerie silence. All that can be heard is the dry whistle of the chill wind and the slow rustling of dead leaves. There is no sign of the missing townsfolk, nor will there be ever again."
+msgstr "Os gritos dos curiangos desvanecem à distância, e a vila de Dunwich é preenchida por um silêncio sinistro. Tudo o que pode ser ouvido é o soprar seco do vento frio e o lento farfalhar das folhas. Não há sinal das pessoas desaparecidas, e jamais haverá novamente."
+
+msgid "Resolution 1"
+msgstr "Resolução 1"
+
+msgid "As you land the finishing blow, the creature’s body explodes into hundreds of squirming ropelike appendages, wriggling across the ground and climbing up the walls. You’re so startled that you aren’t fast enough to prevent them from escaping the room. Even so, whatever that creature was, you’re glad it’s now dead."
+msgstr "Quando vocês dão o golpe final, o corpo da criatura explode em centenas de apêndices nodosos e espasmódicos, retorcendo-se pelo chão e escalando as paredes. Vocês ficam tão assustados que não são rápidos o bastante para impedi-los de fugir da sala. Mesmo assim, o que quer que fosse aquela criatura, felizmente está morta agora."
+
+msgid "Resolution 2"
+msgstr "Resolução 2"
+
+msgid "With the creature that once was Silas lashing out at you from its chains, you have little time to react. Knowing that the Necronomicon might have a spell or incantation that could subdue Silas, you fend off the abomination long enough to find a passage that can help. With no time to spare, you recite the Latin incantation, and find that the words come effortlessly to your tongue, as though recalled from an earlier memory. The creature’s body begins to shrink and melt away as the incantation builds, its cries terrifying and haunting. In the end, all that is left is the disfigured corpse of a man—Silas Bishop. You find a silver pendant emblazoned with an odd constellation tucked into his shirt. You take it with you, hoping to find a use for it."
+msgstr "Com a criatura que já foi Silas libertando-se de seus grilhões vocês têm pouco tempo para reagir. Sabendo que o Necronomicon pode ter uma magia ou encantamento com a capacidade de subjugar Silas, vocês afastam a abominação por tempo o bastante para encontrar uma passagem que pode ser de ajuda. Quase sem tempo, vocês recitam um encantamento em Latim e percebem que as palavras chegam sem esforço algum, como se estivessem sendo lembradas de alguma memória anterior. O corpo da criatura começa a minguar e derreter conforme o encantamento é tecido, e seus gritos são assustadores e aterrorizantes. No fim, tudo o que resta é o corpo desfigurado de um homem — Silas Bishop. Vocês encontram em sua camisa um pingente de prata brasonado com uma estranha constelação. Vocês pegam o objeto, esperando que seja útil em algum momento."
+
+msgid "Resolution 3"
+msgstr "Resolução 3"
+
+msgid "With the creature that once was Silas lashing out at you from its chains, you have little time to react. Hoping there is something in the chamber you can use to your advantage, you fend off the abomination long enough to find a journal; many of its passages are written in Latin. It appears to be a handwritten excerpt from the Necronomicon, its purpose unknown. With no time to spare, you recite the incantation, stumbling over the words and feeling your throat tighten with each sentence. The creature’s body begins to shrink and melt away as the incantation continues, its cries terrifying and haunting. In the end, all that is left is a pile of wet and sticky ichor, and a rotten stench."
+msgstr "Com a criatura que já foi Silas libertando-se de seus grilhões, vocês têm pouco tempo para reagir. Torcendo para que tenha algo na câmara que ajude nessa situação, vocês afastam a abominação por tempo o bastante para encontrar um diário; muitas de suas passagens estão escritas em latim. Parecem ser trechos manuscritos do Necronomicon, com propósito desconhecido. Sem tempo para perder, vocês recitam o encantamento, tropeçando nas palavras e sentindo a garganta se apertar a cada sentença. O corpo da criatura começa a minguar e derreter conforme o encantamento é tecido, e seus gritos são assustadores e aterrorizantes. No fim, tudo o que resta é uma poça de pus úmido e grudento e um cheiro de podridão."
+
+msgid "Scenario IV"
+msgstr "Cenário IV"
+
+msgid "No resolution was reached"
+msgstr "Nenhuma resolução foi alcançada"
+
+msgid "Each investigator resigned or was defeated"
+msgstr "Todos os investigadores renunciaram ou foram derrotados"

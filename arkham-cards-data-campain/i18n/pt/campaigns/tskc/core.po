@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid "During this scenario, investigators must traverse the deceptively labyrinthine and illusory home world of the Outsiders. To represent the difficulty of exploring this alien dimension, three City of Remnants locations are placed in the shadows at all times (taken from the top of the Otherworld deck) and concealed mini-cards are arranged adjacent to locations, rather than placed at them. Exposing these concealed mini-cards is the key to finding a route through this otherworldly place."
+msgstr ""
+
+msgid "Concealed mini-cards adjacent to a location are considered to be at that location for the purposes of card abilities and game rules. Use the shroud value of your current location when attempting to expose an adjacent concealed mini-card."
+msgstr ""
+
+msgid "When a City of Remnants mini-card is exposed, set it aside and find the City of Remnants in the shadows whose position in the shadows matches that mini-card (L for left, M for middle, and R for right). Put that location into play in the position where its mini-card was (unrevealed side faceup)."
+msgstr ""
+
+msgid "If there were any other concealed mini-cards in that position, move them so they are arranged as evenly as possible in empty spots adjacent to the newly placed City of Remnants."
+msgstr ""
+
+msgid "After a City of Remnants location leaves the shadows, place the top card of the Otherworld deck in the shadows in the position where the just-exposed City of Remnants was (without looking at its other side). Then, resolve its concealed keyword, placing each of its concealed mini-cards arranged as evenly as possible in empty spots adjacent to the just-exposed City of Remnants."
+msgstr ""
+
+msgid "There must always be three City of Remnants locations in the shadows, if possible."
+msgstr ""
+
+msgid "More than one concealed mini-card may occupy the same spot, but no concealed mini-cards may occupy a spot where a location already is present."
+msgstr ""
+
+msgid "Throughout this scenario, locations are arranged in a pattern of rows and columns, along with concealed mini-cards <i>(see Locations in the Shadows, below)</i>. <b>Each location is connected to each location adjacent to it.</b>"
+msgstr ""
+
+msgid "Adjacent locations share a side (left, right, above, or below). Locations that share only a corner are not adjacent."
+msgstr ""
+
+msgid "During this scenario, concealed mini-cards are also placed adjacent to one or more locations as above, instead of placed at locations as normal <i>(see Locations in the Shadows, below)</i>."
+msgstr ""
+
+msgid "The first agenda of this scenario causes each [[Cultist]] enemy, including those from the Core Set, to gain the concealed keyword. Since the three Acolytes from the Core Set are not labeled as A, B and C, when resolving their concealed keyword, use any of the Acolyte (any) mini-cards along with their decoy. Likewise, when an “Acolyte (any)” mini-card is exposed, the exposing investigator may choose any Acolyte in the shadows to engage."
+msgstr ""
+
+msgid "This scenario’s 4 starting locations are arranged as shown above, and are connected through their connection symbols. Later during the scenario, the investigators will be instructed to put Grand Bazaar locations into play. <b>Each Grand Bazaar location is connected to each Grand Bazaar location adjacent to it.</b>"
+msgstr ""
+
+msgid "During this scenario, you will often be instructed to choose a random location. This should be done by shuffling together the 5 locations not currently in play (the versions of each location in play not currently being used) and drawing 1 at random."
+msgstr ""
+
+msgid "In this scenario, resources on locations represent the innocent civilians of Marrakesh, who are in grave danger."
+msgstr ""
+
+msgid "For the purposes of enemy movement and enemy attacks, enemies treat civilians as if they were investigators. (Enemies do not engage civilians, but may attack civilians at their location as if they were engaged.) If a civilian is attacked, they are automatically slain."
+msgstr ""
+
+msgid "Civilians remain present on a location when it is revealed."
+msgstr ""
+
+msgid "When a civilian is slain, place it on the scenario reference card, to track how many civilians have been slain."
+msgstr ""
+
+msgid "<i>The Scarlet Keys</i> campaign features a new cardtype: keys. Keys are powerful artifacts that may be “shifted” to either aid or hinder investigators, depending on whom they are attached to and whether their [[Stable]] or [[Unstable]] side is faceup."
+msgstr ""
+
+msgid "During the resolution of a scenario, a key may become bound to a single bearer, whose name is marked in the Campaign Log. A key may be bound to an investigator, a story asset, or an enemy."
+msgstr ""
+
+msgid "A key always enters play attached to its bearer (as marked in the Campaign Log). At the start of each scenario, each investigator who is the bearer of 1 or more keys attaches those keys to their investigator card. Whenever a story asset or enemy enters play, if it is the bearer of 1 or more keys, those keys also enter play attached to their bearer."
+msgstr ""
+
+msgid "If a key’s bearer is an investigator or a story asset, it enters play [[Stable]] side faceup."
+msgstr ""
+
+msgid "If a key’s bearer is an enemy, it enters play [[Unstable]] side faceup."
+msgstr ""
+
+msgid "A key cannot leave play unless its bearer leaves play. If the bearer of 1 or more keys leaves play, each key they control is set aside, out of play. <i>(Those keys do, however, remain bound to their bearer for future scenarios unless explicitly noted otherwise.)</i>"
+msgstr ""
+
+msgid "While a key is attached to an investigator, that investigator may trigger its shift ability during any player window as a [fast] ability. This is called “shifting” the key. As part of this ability’s resolution, it will instruct the investigator to flip the key to its other side, so its other shift ability is active. The investigator will then have to perform the shift ability on its [[Unstable]] side in order to flip it back over again."
+msgstr ""
+
+msgid "While a key is attached to a story asset, it may be shifted by any investigator who controls that asset in the same way."
+msgstr ""
+
+msgid "Each key (by title) attached to an investigator or story asset can only be shifted once per round."
+msgstr ""
+
+msgid "While a key is under an enemy’s control, its shift ability only resolves when a card or game effect instructs an investigator to shift that key, after which it remains [[Unstable]] side faceup."
+msgstr ""
+
+msgid "A key attached to an enemy cannot be flipped to its [[Stable]] side."
+msgstr ""
+
+msgid "There is no limit to the number of times a key attached to an enemy can be shifted."
+msgstr ""
+
+msgid "Some card effects may directly flip a key attached to an investigator or story asset from its [[Stable]] side to its [[Unstable]] side, or vice versa. This is not the same as shifting a key, and does not resolve its shift ability."
+msgstr ""
+
+msgid "During <i>The Scarlet Keys</i> campaign, investigators will confront a number of dangerous and mysterious members of the secret society known as the Red Coterie. One such member is the iconic Red-Gloved Man. As a result, while playing <i>The Scarlet Keys</i> campaign, investigators cannot purchase or include The Red-Gloved Man asset <i>(The Dunwich Legacy card #310)</i> in their decks."
+msgstr ""
+
+msgid ""
+"Concealed X is a keyword that appears on some enemy cards in <i>The Scarlet Keys</i> campaign. Concealed enemies represent hidden enemies whose true location is a mystery until the investigators work to expose where—and in some cases, who—they truly are.\n"
+"When a scenario includes one or more concealed enemies, investigators are instructed to set aside several concealed mini-cards. These mini-cards are double-sided. The facedown side represents the possible location of a concealed enemy. The revealed side reveals the mini-card’s true nature—an enemy’s true location, or simply a decoy."
+msgstr ""
+
+msgid "<i>A facedown concealed mini-card</i>"
+msgstr ""
+
+msgid "<i>An enemy's mini-card marks the location of an enemy in the shadows.</i>"
+msgstr ""
+
+msgid "<i>A decoy marks the location of nothing of consequence—a harmless bystander, or perhaps just a trick of the light.</i>"
+msgstr ""
+
+msgid ""
+"When an investigator draws an enemy with the concealed X keyword (or is instructed to resolve an enemy’s concealed keyword), they spawn that enemy into a game area above the agenda deck, not at any location. This area is called “the shadows,” and represents enemies the investigators know exist somewhere on the map, but are unsure where. Then, that investigator takes the set-aside concealed mini-card that matches that enemy, along with X decoys (where X is defined by that enemy’s concealed X value), shuffles them facedown, and puts them into play distributed as evenly as possible among each location in play, starting with the locations nearest to them. Then, at each of those locations that already had 1 or more concealed mini-cards, they shuffle each of them facedown as well.\n"
+"<i>For example: Amina draws Coterie Agent (A), which has “concealed 2.” She first spawns the Coterie Agent into the shadows. Then, she takes the set-aside Coterie Agent (A) mini-card, along with 2 decoys, shuffles them facedown, and places one at each of the three locations nearest to her. Then, if any of those locations already had 1 or more concealed mini-cards, she would shuffle each concealed mini-card at those locations, as well.</i>"
+msgstr ""
+
+msgid "Enemies in the shadows observe the following additional rules:"
+msgstr ""
+
+msgid "Enemies in the shadows are considered to be in play, but not at any particular location. They cannot move until they leave the shadows."
+msgstr ""
+
+msgid "Enemies in the shadows can qualify as the “nearest” enemy, but only if there are no other enemies in play at any location."
+msgstr ""
+
+msgid "Enemies in the shadows cannot be damaged or leave play via player card effects."
+msgstr ""
+
+msgid "While in play, concealed mini-cards represent the possible location of an enemy in the shadows. In order to deal with such an enemy, its true location must first be discovered by exposing its mini-card. This can be done via one of three methods: fighting, evading, or investigating."
+msgstr ""
+
+msgid "Concealed mini-cards are not enemies and cannot be engaged like enemies. However, any investigator at the same location as a concealed mini-card may attempt to expose it by successfully attacking it or evading it (as if it were an engaged enemy), or by successfully investigating its location. The difficulty to successfully attack or evade a concealed mini-card is equal to the shroud value of its location."
+msgstr ""
+
+msgid "An investigator may also use a card effect that automatically evades an enemy, deals damage to an enemy, or discovers a clue at a location in order to instead expose a concealed mini-card."
+msgstr ""
+
+msgid "If an investigator chooses to expose a concealed mini-card, that effect replaces the standard effects of the action or ability that exposed it. <i>(i.e., if an enemy’s mini-card is exposed by evasion or damage, the matching enemy is not evaded, nor does it take damage. If a mini-card is exposed by discovering clues or investigating, no clues are discovered.)</i>"
+msgstr ""
+
+msgid "If a concealed mini-card is exposed <i>(via any of the above methods)</i>, flip it to its revealed side."
+msgstr ""
+
+msgid "If it is a decoy, set it aside, out of play, with no effect."
+msgstr ""
+
+msgid "If it is an enemy’s mini-card, that enemy is now exposed. Place the matching enemy in the shadows at that mini-card’s location, then set that mini-card aside, out of play. <i>(That enemy is no longer in the shadows, and is now at the location where its mini-card was located).</i> Then, if there are no other enemies in the shadows, set all remaining concealed mini-cards in play aside, out of play."
+msgstr ""
+
+msgid "Only one concealed mini-card may be exposed per effect unless explicitly stated. <i>(i.e., an effect that deals 3 damage to each enemy at a location does not expose all concealed mini-cards at that location; only one.)</i>"
+msgstr ""
+
+msgid "<i>For example: There is a Coterie Agent and a Coterie Assassin in the shadows. There is a concealed mini-card at Kymani’s location and another concealed mini-card at a connecting location. (1) First, Kymani plays an event that discovers a clue at their location, but instead of discovering a clue, they choose to expose the concealed mini-card at their location, flipping it over. That mini-card is a decoy, and is set aside without effect. (2) Next, they move to the connecting location with the other concealed mini-card and attempt to expose it using an evade action. They succeed and flip the mini-card over… revealing the Coterie Assassin’s mini-card! (3) The Coterie Assassin’s mini-card is set aside, and the Coterie Assassin in the shadows is moved to Kymani’s location, engaging them. Because there is another enemy in the shadows, they do not remove any of the other concealed mini-cards from play.</i>"
+msgstr ""
+
+msgid ""
+"Throughout this campaign, tracking the passage of time is of crucial importance. As time marches on, these paranormal events will grow more and more dangerous, and machinations beyond your understanding will progress. Additionally, some opportunities may only be open to you during certain windows of time. When you are instructed to mark one or more time in your Campaign Log, fill in that many boxes under the “Time Passed” header.\n"
+"If you fill in a box that has a symbol (in the form of a Greek letter), proceed to the Status Reports section of the Campaign Guide, find the status report matching that letter, and read the text that follows."
+msgstr ""
+
+msgid "Note: The app will show you the appropriate Status Reports automatically after time is marked."
+msgstr ""
+
+msgid ""
+"Whenever you <b>embark</b>, you may travel wherever you wish using the map included in <i>The Scarlet Keys</i> campaign expansion. Each space on the map is connected to one or more other spaces by paths. When you are ready to embark, travel along the paths to reach whichever destination you wish (as a group). For each path you use to reach your destination, you must mark 1 <b>time</b> in your Campaign Log (to a minimum of 1).\n"
+"At each space on the map, there is a number and letter combination that will guide you to a particular page in this Campaign Guide. You do not have to stop at every space you travel through; however, if you wish to stop traveling and see what is at that space, turn to the page of the Campaign Guide that matches the indicated number and follow the story text there. This might lead you to an interlude or to a scenario. There is no perfect path to follow, so follow your gut… just be wary of how much time you spend (see “Tracking Time” in Campaign Setup).\n"
+"<i>For example: Shelley wishes to travel from Alexandria to Marrakesh. She first marks 1 <b>time</b> to use the path to Rome, but chooses not to stop there, and marks 1 more <b>time</b> to travel to Marrakesh, where she stops. Marrakesh is marked as “11–B,” so she opens the Campaign Guide to page 11 and reads File #11–B: Dead Heat.</i>"
+msgstr ""
+
+msgid "Some locations are marked by a red border and the lack of a letter. You can only travel to such a location once you are permitted to do so by a Campaign Log entry."
+msgstr ""
+
+msgid "Some locations, marked by a green border, represent the sites of possible side stories <i>(found in other Arkam Horror: The Card Game standalone products)</i>. If you wish to incorporate a side story into this campaign, simply travel to the appropriate location on the map and spend additional time equal to the normal experience cost for playing that side story (instead of spending the experience cost)."
+msgstr ""
+
+msgid "If you are not stopping at one of these locations to embark on a side-story, you may skip it and continue traveling along the path. If so, count it as one contiguous path, not as two separate paths."
+msgstr ""
+
+msgid "Once you have stopped at a location, you cannot stop there again for the remainder of the campaign unless instructed otherwise."
+msgstr ""
+
+msgid "Note: this app will automatically calculate the shortest path when you choose a city and <b>embark</b>."
+msgstr ""
+
+msgid "Throughout this Campaign Guide, there are a number of Foundation Dossier sidebars. Investigators are allowed to peek at the Foundation Dossier sidebar for any space on the map, at any time. Use these sidebars to help guide your actions and plan your route. While reading a dossier, investigators are not allowed to peek at any other text on that page until they travel to that location."
+msgstr ""
+
+msgid "Note: These Foundation Dossiers, along with any information or leads your investigators may have learned in their travels, are accessible in the app when browsing the map. This can be accessed while you are taking an <b>embark</b> action, or on the main campaign screen at any time."
+msgstr ""
+
+msgid "Mark 1 <b>time</b> in your Campaign Log."
+msgstr ""
+
+msgid "Mark 2 <b>time</b> in your Campaign Log."
+msgstr ""
+
+msgid "Mark 3 <b>time</b> in your Campaign Log."
+msgstr ""
+
+msgid "You may <b>embark</b>"
+msgstr ""
+
+msgid "Status Report Alpha (α)"
+msgstr ""
+
+msgid "As your travels continue, the Foundation receives more and more reports of strange disappearances. With each new dossier you read, you worry that it is only a matter of time before there is nothing left."
+msgstr ""
+
+msgid "Add 1 [cultist] token to the chaos bag."
+msgstr ""
+
+msgid "Status Report Beta (β)"
+msgstr ""
+
+msgid "You receive a coded missive from Commissioner Taylor herself: “Agents—not long ago, a massive explosion occurred near the Podkamennaya Tunguska River in Siberia. It is classified as an impact event, but this is just a cover story. Our intel now indicates Coterie involvement. I have reason to believe this may be the site of one of their sanctums. Perhaps even their primary safehouse. You have clearance to investigate the site, but be prepared for anything.”"
+msgstr ""
+
+msgid "In the Central Asia section of the Campaign Log, find Tunguska. In its spot, write “59–Z.” You are now allowed to travel to this location whenever you embark. <i>(Note: This will end the campaign. You may wish to investigate further before proceeding to Tunguska… but be wary of how much time you spend.)</i>"
+msgstr ""
+
+msgid "Status Report Epsilon (ε)"
+msgstr ""
+
+msgid "As you traverse the streets, you flinch at every shifting shadow and every passerby wearing red. You’re definitely being followed, and you have no lack of enemies who might fit the bill…"
+msgstr ""
+
+msgid "For the remainder of the campaign, whenever you are setting up a scenario, perform the following: gather each of the enemies in the <i>Red Coterie</i> encounter set whose name matches those who you “haven’t seen the last of” in your Campaign Log, choose one at random, and shuffle it into the encounter deck for this scenario."
+msgstr ""
+
+msgid "You return to your hotel after a long day of travel and investigation, only to find your room in shambles. A grim feeling sprouts in your gut. Someone has clearly turned your room upside-down in search of something, and you’re pretty sure you know what. You rush to the safe where you have been storing the paradimensional artifacts you aren’t carrying on your person. To your horror, it is empty, apart from a single red card. Reaching out to Foundation contacts, you believe you have tracked the culprit to one of four likely Coterie sanctums. Perhaps if you’re quick, you can recover what was stolen from you."
+msgstr ""
+
+msgid "The investigators possess no Keys."
+msgstr ""
+
+msgid "Status Report Zeta (ζ)"
+msgstr ""
+
+msgid "Check the Keys section of the Campaign Log and find each of the Keys whose bearer is an investigator. Choose 1 at random. That Key has been stolen."
+msgstr ""
+
+msgid "Stolen"
+msgstr ""
+
+msgid "Choose the Key to give to Thorne."
+msgstr ""
+
+msgid "Give away"
+msgstr ""
+
+msgid "Check the Keys section of the Campaign Log and find each of the Keys whose bearer is an investigator. Choose 2 at random (because the investigators control 5 or more keys). Those Keys have been stolen."
+msgstr ""
+
+msgid "Gather each of the enemies in the Red Coterie encounter set whose name matches those who you “haven’t seen the last of” in your Campaign Log and choose one at random. This is the identity of the character who stole your Key(s)."
+msgstr ""
+
+msgid "Thief"
+msgstr ""
+
+msgid "In the Central Asia, Americas, and North Atlantic sections of the Campaign Log, find Kabul, Quito, San Juan, and Reykjavik In each of these spots, write “14–C.” You are now allowed to travel to these locations whenever you embark."
+msgstr ""
+
+msgid "Status Report Gamma (γ)"
+msgstr ""
+
+msgid "The reports continue. Now it’s not just missing people, but people returning, having changed. Buildings and objects, too—replicated, but different, off, like they had been completely dismantled and then reassembled. But why?"
+msgstr ""
+
+msgid "Each investigator must add 1 copy of the Paradimensional Understanding weakness to their deck. It does not count toward their deck size. These cards can be found in the <i>Globetrotting</i> encounter set."
+msgstr ""
+
+msgid "Status Report Theta (Θ)"
+msgstr ""
+
+msgid "As you head to your hotel room, you spot a red envelope slipped under your door. Inside is a simple message: “My people in Ybor City know about the new passphrase and know you’re coming. Drop by when you get the chance.” It’s signed “Desi.”"
+msgstr ""
+
+msgid "Status Report Psi (ψ)"
+msgstr ""
+
+msgid ""
+"As you return to your hotel, the concierge waves you down and hands you a telegram.\n"
+"<center><typewriter>TRAIL PICKED UP HOT ON HER HEELS STOP</typewriter></center>\n"
+"<center><typewriter>MEET IN HONG KONG MAY REQUIRE AID STOP</typewriter></center>\n"
+"<center><typewriter>PARASOL IS KEY STOP</typewriter></center>\n"
+"This must be from Inspector Flint. Perhaps you should travel to Hong Kong and learn more, if you can spare the time."
+msgstr ""
+
+msgid "In the Southeast Asia section of the Campaign Log, find Hong Kong. In its spot, write “50–S.” You are now allowed to travel to this location whenever you embark."
+msgstr ""
+
+msgid "Status Report Omega (Ω)"
+msgstr ""
+
+msgid "As you head into your hotel room, frantic at news of recent events, you mentally begin to prepare for the next leg of your trip… when suddenly, a shape emerges from a corner of your hotel room, and you are clocked on the side of your skull by something heavy and smooth. You collapse into darkness. The last thing you see is a splash of red."
+msgstr ""
+
+msgid "You are out of time. Immediately travel directly to Tunguska and proceed to <b>Finale: Congress of the Keys.</b>"
+msgstr ""
+
+msgid "Gather each of the enemies in the <i>Red Coterie</i> encounter set whose name matches those who you “haven’t seen the last of” in your Campaign Log, choose one at random, and shuffle it into the encounter deck for this scenario."
+msgstr ""
+
+msgid "Choose from the following enemies:"
+msgstr ""
