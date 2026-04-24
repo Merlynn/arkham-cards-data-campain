@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "description": "Campaign metadata for translation tooling.",
+  "base_paths": {
+    "i18n_campaigns_pt": "arkham-cards-data-campain/i18n/pt/campaigns",
+    "guides": "arkham-cards-data-campain/guides"
+  },
+  "campaigns": {
+    "boa": {
+      "po_dir": "boa",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "dwl": {
+      "po_dir": "dwl",
+      "guide_dir": "dwl",
+      "guide_pdf_globs": [
+        "*Dunwich*PT-BR*.pdf",
+        "*Dunwich*EN*.pdf"
+      ]
+    },
+    "eoe": {
+      "po_dir": "eoe",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "fhv": {
+      "po_dir": "fhv",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "fof": {
+      "po_dir": "fof",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "gob": {
+      "po_dir": "gob",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "notz": {
+      "po_dir": "notz",
+      "guide_dir": "notz",
+      "guide_pdf_globs": [
+        "*Noite do Zelote*PT-BR*.pdf",
+        "*Noite do Zelote*EN*.pdf"
+      ]
+    },
+    "ptc": {
+      "po_dir": "ptc",
+      "guide_dir": "ptc",
+      "guide_pdf_globs": [
+        "*Carcosa*PT-BR*.pdf",
+        "*Carcosa*EN*.pdf"
+      ]
+    },
+    "side": {
+      "po_dir": "side",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "tcu": {
+      "po_dir": "tcu",
+      "guide_dir": "tcu",
+      "guide_pdf_globs": [
+        "*Circulo Desfeito*PT-BR*.pdf",
+        "*Circulo Desfeito*EN*.pdf",
+        "*Círculo Desfeito*PT-BR*.pdf",
+        "*Círculo Desfeito*EN*.pdf"
+      ]
+    },
+    "tdc": {
+      "po_dir": "tdc",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "tdea": {
+      "po_dir": "tdea",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "tdeb": {
+      "po_dir": "tdeb",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "tfa": {
+      "po_dir": "tfa",
+      "guide_dir": "tfa",
+      "guide_pdf_globs": [
+        "*Era Esquecida*PT-BR*.pdf",
+        "*Era Esquecida*EN*.pdf"
+      ]
+    },
+    "tic": {
+      "po_dir": "tic",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "tskc": {
+      "po_dir": "tskc",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zau": {
+      "po_dir": "zau",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zaw": {
+      "po_dir": "zaw",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zce": {
+      "po_dir": "zce",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zcf": {
+      "po_dir": "zcf",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zcp": {
+      "po_dir": "zcp",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zdm": {
+      "po_dir": "zdm",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zhod": {
+      "po_dir": "zhod",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    },
+    "zoz": {
+      "po_dir": "zoz",
+      "guide_dir": null,
+      "guide_pdf_globs": []
+    }
+  }
+}

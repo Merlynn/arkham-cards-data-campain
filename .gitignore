@@ -1,7 +1,11 @@
 
 # Documentos gerados
-*.pdf
-*.txt
+
+# Arkham guides: manter estrutura, ignorar conteudo
+arkham-cards-data-campain/guides/**
+!arkham-cards-data-campain/guides/
+!arkham-cards-data-campain/guides/.gitkeep
+
 
 # Python: arquivos gerados/cache/ambientes
 __pycache__/
