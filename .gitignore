@@ -1,0 +1,33 @@
+
+# Documentos gerados
+*.pdf
+*.txt
+
+# Python: arquivos gerados/cache/ambientes
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Testes / cobertura / ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
